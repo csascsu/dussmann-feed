@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 27 Nov 2025 20:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 20:51:07 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -15,8 +15,8 @@
       <guid isPermaLink="false">Currywurst mit Ketchup Sauce und Pommes Frites-Unbekanntes Gericht</guid>
       <category>Preis: Kein Preis</category>
       <category>enthält Schwein</category>
-      <enclosure url="https://files.qnips.com/releaseicons/schwein_2022.09.29_07.47.39.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 27 Nov 2025 21:45:37 +0100</pubDate>
+      <enclosure url="https://cmnkftzpna.cloudimg.io/https%3A%2F%2Fqnips.blob.core.windows.net%2Freleaseproductpics%2F13884991_2025.11.26_09.04.12.png?ci_url_encoded=1&amp;w=420&amp;h=190&amp;func=boundmin&amp;ci_sign=d8ba093d0fc0156bd6f04dfb6c60368fe54d19d3" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 27 Nov 2025 21:51:07 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Rinderhacksteak mit Zwiebel- Paprikagemüse überbacken dazu ein kl. Salat und Pommes Frites</title>
@@ -24,7 +24,8 @@
       <description>Unbekanntes Gericht</description>
       <guid isPermaLink="false">Rinderhacksteak mit Zwiebel- Paprikagemüse überbacken dazu ein kl. Salat und Pommes Frites-Unbekanntes Gericht</guid>
       <category>Preis: 8,90 €</category>
-      <pubDate>Thu, 27 Nov 2025 21:45:37 +0100</pubDate>
+      <enclosure url="/assets/images/product-fallback.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 27 Nov 2025 21:51:07 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Penne dazuTomatensauce und Parmesan</title>
@@ -33,8 +34,8 @@
       <guid isPermaLink="false">Penne dazuTomatensauce und Parmesan-Unbekanntes Gericht</guid>
       <category>Preis: 5,00 €</category>
       <category>Vegetarisch</category>
-      <enclosure url="https://files.qnips.com/releaseicons/vegetarisch_2024.08.14_14.59.11.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 27 Nov 2025 21:45:37 +0100</pubDate>
+      <enclosure url="/assets/images/product-fallback.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 27 Nov 2025 21:51:07 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
