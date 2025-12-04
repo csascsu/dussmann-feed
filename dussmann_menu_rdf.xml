@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 04 Dec 2025 07:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 14:46:49 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Thu, 04 Dec 2025 08:29:07 +0100</pubDate>
+      <pubDate>Thu, 04 Dec 2025 15:46:49 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Frisch gebratene Heringe mit Remouladen Sauce und Gurkensalat dazu Bratkartoffeln</title>
+      <title>Rinderleber mit Geschmorte Äpfel und Zwiebeln dazu Kartoffelpüree</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>8,90 €</description>
-      <guid isPermaLink="false">Menü 3::Frisch gebratene Heringe mit Remouladen Sauce und Gurkensalat dazu Bratkartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::Rinderleber mit Geschmorte Äpfel und Zwiebeln dazu Kartoffelpüree</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Frisch gebratene Heringe mit Remouladen Sauce und Gurkensalat dazu Bratkartoffeln</category>
+      <category>Gericht: Rinderleber mit Geschmorte Äpfel und Zwiebeln dazu Kartoffelpüree</category>
       <category>Preis: 8,90 €</category>
-      <pubDate>Thu, 04 Dec 2025 08:29:07 +0100</pubDate>
+      <pubDate>Thu, 04 Dec 2025 15:46:49 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Süßkartoffel-Rucola-Schnitte mit Kräuter Dip und Kartoffel Wedges</title>
-      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Süßkartoffel-Rucola-Schnitte mit Kräuter Dip und Kartoffel Wedges</guid>
-      <category>Menü: Menü 2</category>
-      <category>Gericht: Süßkartoffel-Rucola-Schnitte mit Kräuter Dip und Kartoffel Wedges</category>
-      <category>Preis: 7,90 €</category>
-      <pubDate>Thu, 04 Dec 2025 08:29:07 +0100</pubDate>
-    </item>
-    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Milchreis mit . Apfelkompott und Zimt und Zucker mit .</title>
+      <title>Vegetarische Maccheroni al Forno mit Erbsen und Champignons in Tomatensauce überbacken</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Milchreis mit . Apfelkompott und Zimt und Zucker mit .</guid>
+      <guid isPermaLink="false">Menü 1::Vegetarische Maccheroni al Forno mit Erbsen und Champignons in Tomatensauce überbacken</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Milchreis mit . Apfelkompott und Zimt und Zucker mit .</category>
+      <category>Gericht: Vegetarische Maccheroni al Forno mit Erbsen und Champignons in Tomatensauce überbacken</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Thu, 04 Dec 2025 08:29:07 +0100</pubDate>
+      <pubDate>Thu, 04 Dec 2025 15:46:49 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
