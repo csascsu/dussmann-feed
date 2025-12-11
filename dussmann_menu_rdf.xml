@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 09 Dec 2025 15:30:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 09:02:42 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 09 Dec 2025 16:30:10 +0100</pubDate>
+      <pubDate>Thu, 11 Dec 2025 10:02:42 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Spaghetti mit Rinderbolognese und ein kl. Salat dazu Parmesan .</title>
+      <title>Putenbraten mit Bratensauce und Apfelrotkohl dazu Kartoffelklöße</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>8,90 €</description>
-      <guid isPermaLink="false">Menü 3::Spaghetti mit Rinderbolognese und ein kl. Salat dazu Parmesan .</guid>
+      <guid isPermaLink="false">Menü 3::Putenbraten mit Bratensauce und Apfelrotkohl dazu Kartoffelklöße</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Spaghetti mit Rinderbolognese und ein kl. Salat dazu Parmesan .</category>
+      <category>Gericht: Putenbraten mit Bratensauce und Apfelrotkohl dazu Kartoffelklöße</category>
       <category>Preis: 8,90 €</category>
-      <pubDate>Tue, 09 Dec 2025 16:30:10 +0100</pubDate>
+      <pubDate>Thu, 11 Dec 2025 10:02:42 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Crespelle mit Spinat-Frischkäse in Tomatensahne-Sauce und Goudaüberbacken dazu ein kl. Salat</title>
+      <title>2 Fischfrikadellen mit Knoblauch Dip und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Crespelle mit Spinat-Frischkäse in Tomatensahne-Sauce und Goudaüberbacken dazu ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 2::2 Fischfrikadellen mit Knoblauch Dip und Pommes Frites</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Crespelle mit Spinat-Frischkäse in Tomatensahne-Sauce und Goudaüberbacken dazu ein kl. Salat</category>
+      <category>Gericht: 2 Fischfrikadellen mit Knoblauch Dip und Pommes Frites</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 09 Dec 2025 16:30:10 +0100</pubDate>
+      <pubDate>Thu, 11 Dec 2025 10:02:42 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Tomatencremesuppe mit Butterreis</title>
+      <title>3 Gekochte Eier in leichter Senfsauce und Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Tomatencremesuppe mit Butterreis</guid>
+      <guid isPermaLink="false">Menü 1::3 Gekochte Eier in leichter Senfsauce und Kartoffeln</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Tomatencremesuppe mit Butterreis</category>
+      <category>Gericht: 3 Gekochte Eier in leichter Senfsauce und Kartoffeln</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 09 Dec 2025 16:30:10 +0100</pubDate>
+      <pubDate>Thu, 11 Dec 2025 10:02:42 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
