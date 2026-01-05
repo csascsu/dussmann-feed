@@ -7,36 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 22 Dec 2025 08:16:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 09:03:49 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Geschlossen . . . .</title>
+      <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>0,00 €</description>
-      <guid isPermaLink="false">Menü 3::Geschlossen . . . .</guid>
+      <description>Kein Preis</description>
+      <guid isPermaLink="false">Menü 4::Currywurst mit Ketchup Sauce und Pommes Frites</guid>
+      <category>Menü: Menü 4</category>
+      <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
+      <category>Preis: Kein Preis</category>
+      <pubDate>Mon, 05 Jan 2026 10:03:50 +0100</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Grünkohlpfanne mit Kassler und Kohlwurst dazu Kartoffeln</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>9,50 €</description>
+      <guid isPermaLink="false">Menü 3::Grünkohlpfanne mit Kassler und Kohlwurst dazu Kartoffeln</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Geschlossen . . . .</category>
-      <category>Preis: 0,00 €</category>
-      <pubDate>Mon, 22 Dec 2025 09:16:43 +0100</pubDate>
+      <category>Gericht: Grünkohlpfanne mit Kassler und Kohlwurst dazu Kartoffeln</category>
+      <category>Preis: 9,50 €</category>
+      <pubDate>Mon, 05 Jan 2026 10:03:50 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Geschlossen . . . .</title>
+      <title>Bunter Kartoffelauflauf mit frischem Gemüse und ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>0,00 €</description>
-      <guid isPermaLink="false">Menü 2::Geschlossen . . . .</guid>
+      <description>7,90 €</description>
+      <guid isPermaLink="false">Menü 2::Bunter Kartoffelauflauf mit frischem Gemüse und ein kl. Salat</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Geschlossen . . . .</category>
-      <category>Preis: 0,00 €</category>
-      <pubDate>Mon, 22 Dec 2025 09:16:43 +0100</pubDate>
+      <category>Gericht: Bunter Kartoffelauflauf mit frischem Gemüse und ein kl. Salat</category>
+      <category>Preis: 7,90 €</category>
+      <pubDate>Mon, 05 Jan 2026 10:03:50 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Geschlossen . . . .</title>
+      <title>Spaghetti mit Sauce Napoli</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>0,00 €</description>
-      <guid isPermaLink="false">Menü 1::Geschlossen . . . .</guid>
+      <description>5,00 €</description>
+      <guid isPermaLink="false">Menü 1::Spaghetti mit Sauce Napoli</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Geschlossen . . . .</category>
-      <category>Preis: 0,00 €</category>
-      <pubDate>Mon, 22 Dec 2025 09:16:43 +0100</pubDate>
+      <category>Gericht: Spaghetti mit Sauce Napoli</category>
+      <category>Preis: 5,00 €</category>
+      <pubDate>Mon, 05 Jan 2026 10:03:50 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
