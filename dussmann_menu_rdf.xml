@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 08 Jan 2026 07:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 09:02:48 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Thu, 08 Jan 2026 08:42:56 +0100</pubDate>
+      <pubDate>Fri, 09 Jan 2026 10:02:48 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Schweinenackenbraten mit Bratensauce und Rosenkohl dazu Kartoffelklöße</title>
+      <title>Hähnchencurry mit Kokosmilch und Bratgemüse dazu ein kl. Salat und Butterreis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Schweinenackenbraten mit Bratensauce und Rosenkohl dazu Kartoffelklöße</guid>
+      <guid isPermaLink="false">Menü 3::Hähnchencurry mit Kokosmilch und Bratgemüse dazu ein kl. Salat und Butterreis</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Schweinenackenbraten mit Bratensauce und Rosenkohl dazu Kartoffelklöße</category>
+      <category>Gericht: Hähnchencurry mit Kokosmilch und Bratgemüse dazu ein kl. Salat und Butterreis</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Thu, 08 Jan 2026 08:42:56 +0100</pubDate>
+      <pubDate>Fri, 09 Jan 2026 10:02:48 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Emmentaler Schnitzel mit Sauce Hollandaise und Gemüsereis</title>
-      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Emmentaler Schnitzel mit Sauce Hollandaise und Gemüsereis</guid>
-      <category>Menü: Menü 2</category>
-      <category>Gericht: Emmentaler Schnitzel mit Sauce Hollandaise und Gemüsereis</category>
-      <category>Preis: 7,90 €</category>
-      <pubDate>Thu, 08 Jan 2026 08:42:56 +0100</pubDate>
-    </item>
-    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Milchreis mit . Apfelkompott und Zimt &amp; Zucker mit .</title>
+      <title>Ofenkartoffel mit Kräuter Dip und Salatbeilage</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Milchreis mit . Apfelkompott und Zimt &amp; Zucker mit .</guid>
+      <guid isPermaLink="false">Menü 1::Ofenkartoffel mit Kräuter Dip und Salatbeilage</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Milchreis mit . Apfelkompott und Zimt &amp; Zucker mit .</category>
+      <category>Gericht: Ofenkartoffel mit Kräuter Dip und Salatbeilage</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Thu, 08 Jan 2026 08:42:56 +0100</pubDate>
+      <pubDate>Fri, 09 Jan 2026 10:02:48 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
