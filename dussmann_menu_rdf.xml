@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 12 Jan 2026 11:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 06:51:56 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Mon, 12 Jan 2026 12:41:09 +0100</pubDate>
+      <pubDate>Tue, 13 Jan 2026 07:51:56 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Bauernhackrolle mit Jägersauce und Grüne Bohnen dazu Spätzle</title>
+      <title>Paniertes Hähnchenschnitzel mit Sauce Hollandaise und Blumenkohl dazu Kartoffeltaler</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Bauernhackrolle mit Jägersauce und Grüne Bohnen dazu Spätzle</guid>
+      <guid isPermaLink="false">Menü 3::Paniertes Hähnchenschnitzel mit Sauce Hollandaise und Blumenkohl dazu Kartoffeltaler</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Bauernhackrolle mit Jägersauce und Grüne Bohnen dazu Spätzle</category>
+      <category>Gericht: Paniertes Hähnchenschnitzel mit Sauce Hollandaise und Blumenkohl dazu Kartoffeltaler</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Mon, 12 Jan 2026 12:41:09 +0100</pubDate>
+      <pubDate>Tue, 13 Jan 2026 07:51:56 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Gefüllte Zucchinihälfte mit Tomatensauce an Butterreis</title>
+      <title>Ofenschafskäse mit Tomate mit Tomaten, Zwiebeln, Oliven und Knoblauch dazu ein Knoblauchbrötchen</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Gefüllte Zucchinihälfte mit Tomatensauce an Butterreis</guid>
+      <guid isPermaLink="false">Menü 2::Ofenschafskäse mit Tomate mit Tomaten, Zwiebeln, Oliven und Knoblauch dazu ein Knoblauchbrötchen</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Gefüllte Zucchinihälfte mit Tomatensauce an Butterreis</category>
+      <category>Gericht: Ofenschafskäse mit Tomate mit Tomaten, Zwiebeln, Oliven und Knoblauch dazu ein Knoblauchbrötchen</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Mon, 12 Jan 2026 12:41:09 +0100</pubDate>
+      <pubDate>Tue, 13 Jan 2026 07:51:56 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Deftige Kartoffelsuppe mit Geflügelwiener und Brötchen</title>
+      <title>Bunte Reispfanne mit frischem Bratgemüse und Asia-Sauce</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Deftige Kartoffelsuppe mit Geflügelwiener und Brötchen</guid>
+      <guid isPermaLink="false">Menü 1::Bunte Reispfanne mit frischem Bratgemüse und Asia-Sauce</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Deftige Kartoffelsuppe mit Geflügelwiener und Brötchen</category>
+      <category>Gericht: Bunte Reispfanne mit frischem Bratgemüse und Asia-Sauce</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Mon, 12 Jan 2026 12:41:09 +0100</pubDate>
+      <pubDate>Tue, 13 Jan 2026 07:51:56 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
