@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Jan 2026 08:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 08:00:19 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Thu, 15 Jan 2026 09:00:19 +0100</pubDate>
+      <pubDate>Fri, 16 Jan 2026 09:00:19 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>2 Bifteki mit Knoblauch Dip und Coleslaw Salat dazu Pommes Frites</title>
+      <title>Grützwurst mit Apfelkompott und Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::2 Bifteki mit Knoblauch Dip und Coleslaw Salat dazu Pommes Frites</guid>
+      <guid isPermaLink="false">Menü 3::Grützwurst mit Apfelkompott und Kartoffeln</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: 2 Bifteki mit Knoblauch Dip und Coleslaw Salat dazu Pommes Frites</category>
+      <category>Gericht: Grützwurst mit Apfelkompott und Kartoffeln</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Thu, 15 Jan 2026 09:00:19 +0100</pubDate>
+      <pubDate>Fri, 16 Jan 2026 09:00:19 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Käsespätzle mit frischen Kräutern und Röstzwiebeln dazu ein kl. Salat</title>
-      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Käsespätzle mit frischen Kräutern und Röstzwiebeln dazu ein kl. Salat</guid>
-      <category>Menü: Menü 2</category>
-      <category>Gericht: Käsespätzle mit frischen Kräutern und Röstzwiebeln dazu ein kl. Salat</category>
-      <category>Preis: 7,90 €</category>
-      <pubDate>Thu, 15 Jan 2026 09:00:19 +0100</pubDate>
-    </item>
-    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Steckrübeneintopf mit Kartoffeln, Suppengrün und Kohlwursteinlage</title>
+      <title>Penne mit Tomatensauce- Basilikumsauce</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Steckrübeneintopf mit Kartoffeln, Suppengrün und Kohlwursteinlage</guid>
+      <guid isPermaLink="false">Menü 1::Penne mit Tomatensauce- Basilikumsauce</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Steckrübeneintopf mit Kartoffeln, Suppengrün und Kohlwursteinlage</category>
+      <category>Gericht: Penne mit Tomatensauce- Basilikumsauce</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Thu, 15 Jan 2026 09:00:19 +0100</pubDate>
+      <pubDate>Fri, 16 Jan 2026 09:00:19 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
