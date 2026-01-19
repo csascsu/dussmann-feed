@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 16 Jan 2026 08:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 10:23:19 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,27 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Fri, 16 Jan 2026 09:00:19 +0100</pubDate>
+      <pubDate>Mon, 19 Jan 2026 11:23:19 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Grützwurst mit Apfelkompott und Kartoffeln</title>
+      <title>Hähnchengeschnetzeltes mit Paprika und Champignons dazu ein kl. Salat und Butterreis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Grützwurst mit Apfelkompott und Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::Hähnchengeschnetzeltes mit Paprika und Champignons dazu ein kl. Salat und Butterreis</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Grützwurst mit Apfelkompott und Kartoffeln</category>
+      <category>Gericht: Hähnchengeschnetzeltes mit Paprika und Champignons dazu ein kl. Salat und Butterreis</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Fri, 16 Jan 2026 09:00:19 +0100</pubDate>
+      <pubDate>Mon, 19 Jan 2026 11:23:19 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Penne mit Tomatensauce- Basilikumsauce</title>
+      <title>Gemüse-Gouda-Stäbchen mit Sauce Hollandaise und einem kl. Salat dazu Kartoffelpüree</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>7,90 €</description>
+      <guid isPermaLink="false">Menü 2::Gemüse-Gouda-Stäbchen mit Sauce Hollandaise und einem kl. Salat dazu Kartoffelpüree</guid>
+      <category>Menü: Menü 2</category>
+      <category>Gericht: Gemüse-Gouda-Stäbchen mit Sauce Hollandaise und einem kl. Salat dazu Kartoffelpüree</category>
+      <category>Preis: 7,90 €</category>
+      <pubDate>Mon, 19 Jan 2026 11:23:19 +0100</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Milchreis mit Kirschgrütze und Zimt &amp; Zucker</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Penne mit Tomatensauce- Basilikumsauce</guid>
+      <guid isPermaLink="false">Menü 1::Milchreis mit Kirschgrütze und Zimt &amp; Zucker</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Penne mit Tomatensauce- Basilikumsauce</category>
+      <category>Gericht: Milchreis mit Kirschgrütze und Zimt &amp; Zucker</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Fri, 16 Jan 2026 09:00:19 +0100</pubDate>
+      <pubDate>Mon, 19 Jan 2026 11:23:19 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
