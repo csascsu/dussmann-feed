@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Jan 2026 08:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 08:00:13 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 20 Jan 2026 09:00:12 +0100</pubDate>
+      <pubDate>Wed, 21 Jan 2026 09:00:13 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Paniertes Schweineschnitzel mit Pfeffersauce und Buttererbsen dazu Pommes Frites</title>
+      <title>Gem. Braten vom Rind und Pute mit Bratensauce und Apfelrotkohl dazu Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Paniertes Schweineschnitzel mit Pfeffersauce und Buttererbsen dazu Pommes Frites</guid>
+      <guid isPermaLink="false">Menü 3::Gem. Braten vom Rind und Pute mit Bratensauce und Apfelrotkohl dazu Kartoffeln</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Paniertes Schweineschnitzel mit Pfeffersauce und Buttererbsen dazu Pommes Frites</category>
+      <category>Gericht: Gem. Braten vom Rind und Pute mit Bratensauce und Apfelrotkohl dazu Kartoffeln</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 20 Jan 2026 09:00:12 +0100</pubDate>
+      <pubDate>Wed, 21 Jan 2026 09:00:13 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Zwei Camembert mit Preiselbeeren und Knoblauchbrötchen, dazu eine Salatbeilage</title>
+      <title>Gefüllte Fleischtomate mit Bulgur und Hirtenkäse auf Rotem Linsenragout</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Zwei Camembert mit Preiselbeeren und Knoblauchbrötchen, dazu eine Salatbeilage</guid>
+      <guid isPermaLink="false">Menü 2::Gefüllte Fleischtomate mit Bulgur und Hirtenkäse auf Rotem Linsenragout</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Zwei Camembert mit Preiselbeeren und Knoblauchbrötchen, dazu eine Salatbeilage</category>
+      <category>Gericht: Gefüllte Fleischtomate mit Bulgur und Hirtenkäse auf Rotem Linsenragout</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 20 Jan 2026 09:00:12 +0100</pubDate>
+      <pubDate>Wed, 21 Jan 2026 09:00:13 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Scharfe Tomaten-Paprika-Suppe mit Schmand und Knoblauchbrötchen</title>
+      <title>Penne mit Waldpilzsauce und Kräuter und Kirschtomaten</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Scharfe Tomaten-Paprika-Suppe mit Schmand und Knoblauchbrötchen</guid>
+      <guid isPermaLink="false">Menü 1::Penne mit Waldpilzsauce und Kräuter und Kirschtomaten</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Scharfe Tomaten-Paprika-Suppe mit Schmand und Knoblauchbrötchen</category>
+      <category>Gericht: Penne mit Waldpilzsauce und Kräuter und Kirschtomaten</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 20 Jan 2026 09:00:12 +0100</pubDate>
+      <pubDate>Wed, 21 Jan 2026 09:00:13 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
