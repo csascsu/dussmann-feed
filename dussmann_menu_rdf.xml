@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Feb 2026 08:04:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 08:00:34 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Mon, 02 Feb 2026 09:04:54 +0100</pubDate>
+      <pubDate>Tue, 03 Feb 2026 09:00:35 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Hähnchencurry mit Kokosmilch und Bratgemüse dazu ein kl. Salat und Butterreis</title>
+      <title>Schweinegulasch aus der Schulter mit Champignons und Paprika dazu Fusilli und ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Hähnchencurry mit Kokosmilch und Bratgemüse dazu ein kl. Salat und Butterreis</guid>
+      <guid isPermaLink="false">Menü 3::Schweinegulasch aus der Schulter mit Champignons und Paprika dazu Fusilli und ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Hähnchencurry mit Kokosmilch und Bratgemüse dazu ein kl. Salat und Butterreis</category>
+      <category>Gericht: Schweinegulasch aus der Schulter mit Champignons und Paprika dazu Fusilli und ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Mon, 02 Feb 2026 09:04:54 +0100</pubDate>
+      <pubDate>Tue, 03 Feb 2026 09:00:35 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Knusperschnitte Hong Kong mit Asia Sauce und Salatbeilage dazu Butterreis</title>
+      <title>3 Gekochte Eier in leichter Senfsauce mit Kartoffeln und Möhrensalat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Knusperschnitte Hong Kong mit Asia Sauce und Salatbeilage dazu Butterreis</guid>
+      <guid isPermaLink="false">Menü 2::3 Gekochte Eier in leichter Senfsauce mit Kartoffeln und Möhrensalat</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Knusperschnitte Hong Kong mit Asia Sauce und Salatbeilage dazu Butterreis</category>
+      <category>Gericht: 3 Gekochte Eier in leichter Senfsauce mit Kartoffeln und Möhrensalat</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Mon, 02 Feb 2026 09:04:54 +0100</pubDate>
+      <pubDate>Tue, 03 Feb 2026 09:00:35 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Spaghetti mit Sauce Napoli</title>
+      <title>Vegetarische Hackfleisch- Lauchcremesuppe mit Schmelzkäse</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Spaghetti mit Sauce Napoli</guid>
+      <guid isPermaLink="false">Menü 1::Vegetarische Hackfleisch- Lauchcremesuppe mit Schmelzkäse</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Spaghetti mit Sauce Napoli</category>
+      <category>Gericht: Vegetarische Hackfleisch- Lauchcremesuppe mit Schmelzkäse</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Mon, 02 Feb 2026 09:04:54 +0100</pubDate>
+      <pubDate>Tue, 03 Feb 2026 09:00:35 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
