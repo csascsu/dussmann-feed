@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Feb 2026 08:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 08:00:16 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,27 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Fri, 06 Feb 2026 09:00:19 +0100</pubDate>
+      <pubDate>Sat, 07 Feb 2026 09:00:16 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Lasagne Bolognese mit Rinderhackfleisch und Gouda überbacken dazu ein kl. Salat</title>
+      <title>Paniertes Hähnchenschnitzel an Rahmchampignons Sauce mit Buttererbsen und Kartoffelrösti-Bites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Lasagne Bolognese mit Rinderhackfleisch und Gouda überbacken dazu ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Paniertes Hähnchenschnitzel an Rahmchampignons Sauce mit Buttererbsen und Kartoffelrösti-Bites</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Lasagne Bolognese mit Rinderhackfleisch und Gouda überbacken dazu ein kl. Salat</category>
+      <category>Gericht: Paniertes Hähnchenschnitzel an Rahmchampignons Sauce mit Buttererbsen und Kartoffelrösti-Bites</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Fri, 06 Feb 2026 09:00:19 +0100</pubDate>
+      <pubDate>Sat, 07 Feb 2026 09:00:16 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Hausgemachte Kartoffelpuffer mit Apfelkompott und Zimt &amp; Zucker</title>
+      <title>Kürbis-Falafel mit Salatbeilage und Kräuter Dip dazu Butterreis</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>7,90 €</description>
+      <guid isPermaLink="false">Menü 2::Kürbis-Falafel mit Salatbeilage und Kräuter Dip dazu Butterreis</guid>
+      <category>Menü: Menü 2</category>
+      <category>Gericht: Kürbis-Falafel mit Salatbeilage und Kräuter Dip dazu Butterreis</category>
+      <category>Preis: 7,90 €</category>
+      <pubDate>Sat, 07 Feb 2026 09:00:16 +0100</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Spaghetti mit Thunfisch-Kapernsauce und Rucola</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Hausgemachte Kartoffelpuffer mit Apfelkompott und Zimt &amp; Zucker</guid>
+      <guid isPermaLink="false">Menü 1::Spaghetti mit Thunfisch-Kapernsauce und Rucola</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Hausgemachte Kartoffelpuffer mit Apfelkompott und Zimt &amp; Zucker</category>
+      <category>Gericht: Spaghetti mit Thunfisch-Kapernsauce und Rucola</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Fri, 06 Feb 2026 09:00:19 +0100</pubDate>
+      <pubDate>Sat, 07 Feb 2026 09:00:16 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
