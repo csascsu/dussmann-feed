@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Feb 2026 08:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 08:00:13 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Mon, 16 Feb 2026 09:00:12 +0100</pubDate>
+      <pubDate>Tue, 17 Feb 2026 09:00:13 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Hähnchenbrust Piccata Milanese an Tomatenragout mit Bandnudeln und ein kl. Salat</title>
+      <title>Putengeschnetzeltes " Zürcher Art" mit Champignons und Zwiebeln dazu Spätzle und ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Hähnchenbrust Piccata Milanese an Tomatenragout mit Bandnudeln und ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Putengeschnetzeltes " Zürcher Art" mit Champignons und Zwiebeln dazu Spätzle und ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Hähnchenbrust Piccata Milanese an Tomatenragout mit Bandnudeln und ein kl. Salat</category>
+      <category>Gericht: Putengeschnetzeltes " Zürcher Art" mit Champignons und Zwiebeln dazu Spätzle und ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Mon, 16 Feb 2026 09:00:12 +0100</pubDate>
+      <pubDate>Tue, 17 Feb 2026 09:00:13 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Kartoffeltasche " Toskana" mit Kräuter Dip und frischem Bratgemüse</title>
+      <title>Blattspinat Lasagne mit Zwiebeln, Knoblauch und Hirtenkäse dazu ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Kartoffeltasche " Toskana" mit Kräuter Dip und frischem Bratgemüse</guid>
+      <guid isPermaLink="false">Menü 2::Blattspinat Lasagne mit Zwiebeln, Knoblauch und Hirtenkäse dazu ein kl. Salat</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Kartoffeltasche " Toskana" mit Kräuter Dip und frischem Bratgemüse</category>
+      <category>Gericht: Blattspinat Lasagne mit Zwiebeln, Knoblauch und Hirtenkäse dazu ein kl. Salat</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Mon, 16 Feb 2026 09:00:12 +0100</pubDate>
+      <pubDate>Tue, 17 Feb 2026 09:00:13 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Milchreis mit Zimt-Pflaumen-Kompott und Zimt &amp; Zucker</title>
+      <title>Weiße Bohnensuppe mit Geflügelwiener dazu Baguette</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Milchreis mit Zimt-Pflaumen-Kompott und Zimt &amp; Zucker</guid>
+      <guid isPermaLink="false">Menü 1::Weiße Bohnensuppe mit Geflügelwiener dazu Baguette</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Milchreis mit Zimt-Pflaumen-Kompott und Zimt &amp; Zucker</category>
+      <category>Gericht: Weiße Bohnensuppe mit Geflügelwiener dazu Baguette</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Mon, 16 Feb 2026 09:00:12 +0100</pubDate>
+      <pubDate>Tue, 17 Feb 2026 09:00:13 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
