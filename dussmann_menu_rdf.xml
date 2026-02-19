@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Feb 2026 08:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 08:00:14 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Wed, 18 Feb 2026 09:00:16 +0100</pubDate>
+      <pubDate>Thu, 19 Feb 2026 09:00:14 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Schweinenackenbraten mit Bratensauce und Rosenkohl dazu Kartoffeln</title>
+      <title>1/2 Grillhähnchen mit hausgemachtem Coleslaw Salat und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Schweinenackenbraten mit Bratensauce und Rosenkohl dazu Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::1/2 Grillhähnchen mit hausgemachtem Coleslaw Salat und Pommes Frites</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Schweinenackenbraten mit Bratensauce und Rosenkohl dazu Kartoffeln</category>
+      <category>Gericht: 1/2 Grillhähnchen mit hausgemachtem Coleslaw Salat und Pommes Frites</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 18 Feb 2026 09:00:16 +0100</pubDate>
+      <pubDate>Thu, 19 Feb 2026 09:00:14 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Toast " Hawaii " mit Kochschinken, Ananas, Käse und Preiselbeeren dazu ein kl. Salat</title>
+      <title>Käsespätzle mit frischen Kräutern und Röstzwiebeln dazu ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Toast " Hawaii " mit Kochschinken, Ananas, Käse und Preiselbeeren dazu ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 2::Käsespätzle mit frischen Kräutern und Röstzwiebeln dazu ein kl. Salat</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Toast " Hawaii " mit Kochschinken, Ananas, Käse und Preiselbeeren dazu ein kl. Salat</category>
+      <category>Gericht: Käsespätzle mit frischen Kräutern und Röstzwiebeln dazu ein kl. Salat</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 18 Feb 2026 09:00:16 +0100</pubDate>
+      <pubDate>Thu, 19 Feb 2026 09:00:14 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Cappelletti mit Tomate-Ricotta- Füllung in Basilikum-Sahnesauce</title>
+      <title>Rote Linsen-Kokos-Suppe dazu ein Knoblauchbrötchen</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Cappelletti mit Tomate-Ricotta- Füllung in Basilikum-Sahnesauce</guid>
+      <guid isPermaLink="false">Menü 1::Rote Linsen-Kokos-Suppe dazu ein Knoblauchbrötchen</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Cappelletti mit Tomate-Ricotta- Füllung in Basilikum-Sahnesauce</category>
+      <category>Gericht: Rote Linsen-Kokos-Suppe dazu ein Knoblauchbrötchen</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Wed, 18 Feb 2026 09:00:16 +0100</pubDate>
+      <pubDate>Thu, 19 Feb 2026 09:00:14 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
