@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Feb 2026 08:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 08:00:11 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchups Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,7 +16,7 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchups Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Sun, 22 Feb 2026 09:00:11 +0100</pubDate>
+      <pubDate>Mon, 23 Feb 2026 09:00:11 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Paniertes Hähnchenschnitzel mit Sauce Bernaise und frischem Blumenkohl dazu Kartoffeln</title>
@@ -26,7 +26,7 @@
       <category>Menü: Menü 3</category>
       <category>Gericht: Paniertes Hähnchenschnitzel mit Sauce Bernaise und frischem Blumenkohl dazu Kartoffeln</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Sun, 22 Feb 2026 09:00:11 +0100</pubDate>
+      <pubDate>Mon, 23 Feb 2026 09:00:11 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Tortellini mit Rindfleischfüllung alla Panna ( Schinkensahnesauce ) dazu ein kl. Salat</title>
@@ -36,7 +36,7 @@
       <category>Menü: Menü 2</category>
       <category>Gericht: Tortellini mit Rindfleischfüllung alla Panna ( Schinkensahnesauce ) dazu ein kl. Salat</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Sun, 22 Feb 2026 09:00:11 +0100</pubDate>
+      <pubDate>Mon, 23 Feb 2026 09:00:11 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Penne mit Arrabiata Sauce und Rucola</title>
@@ -46,7 +46,7 @@
       <category>Menü: Menü 1</category>
       <category>Gericht: Penne mit Arrabiata Sauce und Rucola</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Sun, 22 Feb 2026 09:00:11 +0100</pubDate>
+      <pubDate>Mon, 23 Feb 2026 09:00:11 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
