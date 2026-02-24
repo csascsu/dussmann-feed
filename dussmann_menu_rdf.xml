@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Feb 2026 08:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 08:00:11 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchups Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchups Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Mon, 23 Feb 2026 09:00:11 +0100</pubDate>
+      <pubDate>Tue, 24 Feb 2026 09:00:11 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Paniertes Hähnchenschnitzel mit Sauce Bernaise und frischem Blumenkohl dazu Kartoffeln</title>
+      <title>Herzhaftes Putengulasch mit Zwiebeln und Paprika dazu Grüne Bohnen und Spätzle-Knöpfe</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Paniertes Hähnchenschnitzel mit Sauce Bernaise und frischem Blumenkohl dazu Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::Herzhaftes Putengulasch mit Zwiebeln und Paprika dazu Grüne Bohnen und Spätzle-Knöpfe</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Paniertes Hähnchenschnitzel mit Sauce Bernaise und frischem Blumenkohl dazu Kartoffeln</category>
+      <category>Gericht: Herzhaftes Putengulasch mit Zwiebeln und Paprika dazu Grüne Bohnen und Spätzle-Knöpfe</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Mon, 23 Feb 2026 09:00:11 +0100</pubDate>
+      <pubDate>Tue, 24 Feb 2026 09:00:11 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Tortellini mit Rindfleischfüllung alla Panna ( Schinkensahnesauce ) dazu ein kl. Salat</title>
+      <title>Kichererbsencurry mit Bratgemüse und Butterreis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Tortellini mit Rindfleischfüllung alla Panna ( Schinkensahnesauce ) dazu ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 2::Kichererbsencurry mit Bratgemüse und Butterreis</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Tortellini mit Rindfleischfüllung alla Panna ( Schinkensahnesauce ) dazu ein kl. Salat</category>
+      <category>Gericht: Kichererbsencurry mit Bratgemüse und Butterreis</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Mon, 23 Feb 2026 09:00:11 +0100</pubDate>
+      <pubDate>Tue, 24 Feb 2026 09:00:11 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Penne mit Arrabiata Sauce und Rucola</title>
+      <title>Grüner Bohneneintopf mit Rindfleisch, Kartoffeln, und Suppengrün dazu ein Brötchen</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Penne mit Arrabiata Sauce und Rucola</guid>
+      <guid isPermaLink="false">Menü 1::Grüner Bohneneintopf mit Rindfleisch, Kartoffeln, und Suppengrün dazu ein Brötchen</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Penne mit Arrabiata Sauce und Rucola</category>
+      <category>Gericht: Grüner Bohneneintopf mit Rindfleisch, Kartoffeln, und Suppengrün dazu ein Brötchen</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Mon, 23 Feb 2026 09:00:11 +0100</pubDate>
+      <pubDate>Tue, 24 Feb 2026 09:00:11 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
