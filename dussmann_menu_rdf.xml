@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Mar 2026 08:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 08:00:14 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 03 Mar 2026 09:00:16 +0100</pubDate>
+      <pubDate>Wed, 04 Mar 2026 09:00:17 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Spaghetti mit Rinderbolognese und Parmesan dazu ein kl. Salat</title>
+      <title>Hähnchencurry mit Kokosmilch und Bratgemüse und einem kl. Salat dazu Butterreis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Spaghetti mit Rinderbolognese und Parmesan dazu ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Hähnchencurry mit Kokosmilch und Bratgemüse und einem kl. Salat dazu Butterreis</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Spaghetti mit Rinderbolognese und Parmesan dazu ein kl. Salat</category>
+      <category>Gericht: Hähnchencurry mit Kokosmilch und Bratgemüse und einem kl. Salat dazu Butterreis</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 03 Mar 2026 09:00:16 +0100</pubDate>
+      <pubDate>Wed, 04 Mar 2026 09:00:17 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Putengyrossuppe mit Paprika und Mais dazu ein Brötchen</title>
+      <title>Kartoffelpuffer mit Kräuter Dip und Räucherlachs dazu ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Putengyrossuppe mit Paprika und Mais dazu ein Brötchen</guid>
+      <guid isPermaLink="false">Menü 2::Kartoffelpuffer mit Kräuter Dip und Räucherlachs dazu ein kl. Salat</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Putengyrossuppe mit Paprika und Mais dazu ein Brötchen</category>
+      <category>Gericht: Kartoffelpuffer mit Kräuter Dip und Räucherlachs dazu ein kl. Salat</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 03 Mar 2026 09:00:16 +0100</pubDate>
+      <pubDate>Wed, 04 Mar 2026 09:00:17 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Bunte Kartoffelpfanne mit Paprika, Zucchini, Zwiebeln, Kürbis und Möhren mit Oivenoil dazu Knoblauch Dip</title>
+      <title>Süßkartoffel-Kürbis-suppe mit Schmand</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Bunte Kartoffelpfanne mit Paprika, Zucchini, Zwiebeln, Kürbis und Möhren mit Oivenoil dazu Knoblauch Dip</guid>
+      <guid isPermaLink="false">Menü 1::Süßkartoffel-Kürbis-suppe mit Schmand</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Bunte Kartoffelpfanne mit Paprika, Zucchini, Zwiebeln, Kürbis und Möhren mit Oivenoil dazu Knoblauch Dip</category>
+      <category>Gericht: Süßkartoffel-Kürbis-suppe mit Schmand</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 03 Mar 2026 09:00:16 +0100</pubDate>
+      <pubDate>Wed, 04 Mar 2026 09:00:17 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
