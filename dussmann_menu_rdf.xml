@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 11 Mar 2026 08:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 08:00:15 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Wed, 11 Mar 2026 09:00:17 +0100</pubDate>
+      <pubDate>Thu, 12 Mar 2026 09:00:15 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Hähnchenkeule mit Bratensauce und Erbsen und Möhren in Rahm dazu Kartoffeln</title>
+      <title>Pulled Pork vom Schweinenacken mit BBQ Sauce und Coleslaw Salat dazu Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Hähnchenkeule mit Bratensauce und Erbsen und Möhren in Rahm dazu Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::Pulled Pork vom Schweinenacken mit BBQ Sauce und Coleslaw Salat dazu Pommes Frites</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Hähnchenkeule mit Bratensauce und Erbsen und Möhren in Rahm dazu Kartoffeln</category>
+      <category>Gericht: Pulled Pork vom Schweinenacken mit BBQ Sauce und Coleslaw Salat dazu Pommes Frites</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 11 Mar 2026 09:00:17 +0100</pubDate>
+      <pubDate>Thu, 12 Mar 2026 09:00:15 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Ofenschafskäse mit Tomate Knoblauch, Peperoni und Oliven dazu Ciabatta</title>
+      <title>Cannelloni Ricotta-Spinat in Tomatensauce und Käse überbacken dazu ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Ofenschafskäse mit Tomate Knoblauch, Peperoni und Oliven dazu Ciabatta</guid>
+      <guid isPermaLink="false">Menü 2::Cannelloni Ricotta-Spinat in Tomatensauce und Käse überbacken dazu ein kl. Salat</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Ofenschafskäse mit Tomate Knoblauch, Peperoni und Oliven dazu Ciabatta</category>
+      <category>Gericht: Cannelloni Ricotta-Spinat in Tomatensauce und Käse überbacken dazu ein kl. Salat</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 11 Mar 2026 09:00:17 +0100</pubDate>
+      <pubDate>Thu, 12 Mar 2026 09:00:15 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Mini-Germknödel mit Kirschenfüllung und Vanillesauce</title>
+      <title>Vegetarische Thai-Curry-Suppe mit frischem Bratgemüse</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Mini-Germknödel mit Kirschenfüllung und Vanillesauce</guid>
+      <guid isPermaLink="false">Menü 1::Vegetarische Thai-Curry-Suppe mit frischem Bratgemüse</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Mini-Germknödel mit Kirschenfüllung und Vanillesauce</category>
+      <category>Gericht: Vegetarische Thai-Curry-Suppe mit frischem Bratgemüse</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Wed, 11 Mar 2026 09:00:17 +0100</pubDate>
+      <pubDate>Thu, 12 Mar 2026 09:00:15 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
