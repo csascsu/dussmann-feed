@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Mar 2026 09:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 08:00:16 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 17 Mar 2026 10:28:31 +0100</pubDate>
+      <pubDate>Wed, 18 Mar 2026 09:00:16 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Paniertes Schweineschnitzel mit Jägersauce und Erbsen dazu Pommes Frites</title>
+      <title>Lasagne Bolognese mit Rinderhackfleisch und Gouda dazu ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Paniertes Schweineschnitzel mit Jägersauce und Erbsen dazu Pommes Frites</guid>
+      <guid isPermaLink="false">Menü 3::Lasagne Bolognese mit Rinderhackfleisch und Gouda dazu ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Paniertes Schweineschnitzel mit Jägersauce und Erbsen dazu Pommes Frites</category>
+      <category>Gericht: Lasagne Bolognese mit Rinderhackfleisch und Gouda dazu ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 17 Mar 2026 10:28:31 +0100</pubDate>
+      <pubDate>Wed, 18 Mar 2026 09:00:16 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Enchilada gefüllt mit Chili con Carne und Käse überbacken</title>
+      <title>Couscous-Gemüse-Törtchen mit Kräuter Dip und Gemüsereis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Enchilada gefüllt mit Chili con Carne und Käse überbacken</guid>
+      <guid isPermaLink="false">Menü 2::Couscous-Gemüse-Törtchen mit Kräuter Dip und Gemüsereis</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Enchilada gefüllt mit Chili con Carne und Käse überbacken</category>
+      <category>Gericht: Couscous-Gemüse-Törtchen mit Kräuter Dip und Gemüsereis</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 17 Mar 2026 10:28:31 +0100</pubDate>
+      <pubDate>Wed, 18 Mar 2026 09:00:16 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Milchreis mit Apfelkompott und Zimt Zucker</title>
+      <title>Tomatencremesuppe mit Creme Fraiche und Knoblauchbrötchen</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Milchreis mit Apfelkompott und Zimt Zucker</guid>
+      <guid isPermaLink="false">Menü 1::Tomatencremesuppe mit Creme Fraiche und Knoblauchbrötchen</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Milchreis mit Apfelkompott und Zimt Zucker</category>
+      <category>Gericht: Tomatencremesuppe mit Creme Fraiche und Knoblauchbrötchen</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 17 Mar 2026 10:28:31 +0100</pubDate>
+      <pubDate>Wed, 18 Mar 2026 09:00:16 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
