@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Mar 2026 08:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 08:00:12 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,27 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Fri, 20 Mar 2026 09:00:12 +0100</pubDate>
+      <pubDate>Sat, 21 Mar 2026 09:00:12 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Schaschlikpfanne mit Paprika, Zwiebeln und Speck dazu ein kl. Salat und Butterreis</title>
+      <title>Kasselerbraten mit Bratensauce und Sauerkraut dazu Kartoffelpüree</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Schaschlikpfanne mit Paprika, Zwiebeln und Speck dazu ein kl. Salat und Butterreis</guid>
+      <guid isPermaLink="false">Menü 3::Kasselerbraten mit Bratensauce und Sauerkraut dazu Kartoffelpüree</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Schaschlikpfanne mit Paprika, Zwiebeln und Speck dazu ein kl. Salat und Butterreis</category>
+      <category>Gericht: Kasselerbraten mit Bratensauce und Sauerkraut dazu Kartoffelpüree</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Fri, 20 Mar 2026 09:00:12 +0100</pubDate>
+      <pubDate>Sat, 21 Mar 2026 09:00:12 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Ofenkartoffel mit Kräuter Dip und Salatbeilage</title>
+      <title>Gnocchis mit Gorgonzola-Spinatsauce dazu ein kl. Salat</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>7,90 €</description>
+      <guid isPermaLink="false">Menü 2::Gnocchis mit Gorgonzola-Spinatsauce dazu ein kl. Salat</guid>
+      <category>Menü: Menü 2</category>
+      <category>Gericht: Gnocchis mit Gorgonzola-Spinatsauce dazu ein kl. Salat</category>
+      <category>Preis: 7,90 €</category>
+      <pubDate>Sat, 21 Mar 2026 09:00:12 +0100</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Bunte Reispfanne mit Karotten, Zucchini, Zwiebeln, Paprika und Asia-Sauce</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Ofenkartoffel mit Kräuter Dip und Salatbeilage</guid>
+      <guid isPermaLink="false">Menü 1::Bunte Reispfanne mit Karotten, Zucchini, Zwiebeln, Paprika und Asia-Sauce</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Ofenkartoffel mit Kräuter Dip und Salatbeilage</category>
+      <category>Gericht: Bunte Reispfanne mit Karotten, Zucchini, Zwiebeln, Paprika und Asia-Sauce</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Fri, 20 Mar 2026 09:00:12 +0100</pubDate>
+      <pubDate>Sat, 21 Mar 2026 09:00:12 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
