@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Mar 2026 08:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 08:00:16 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Mon, 23 Mar 2026 09:00:13 +0100</pubDate>
+      <pubDate>Tue, 24 Mar 2026 09:00:17 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Kasselerbraten mit Bratensauce und Sauerkraut dazu Kartoffelpüree</title>
+      <title>Hähnchenbrust Piccata Milanese mit Tomatenragout und kl. Salat dazu Spaghetti</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Kasselerbraten mit Bratensauce und Sauerkraut dazu Kartoffelpüree</guid>
+      <guid isPermaLink="false">Menü 3::Hähnchenbrust Piccata Milanese mit Tomatenragout und kl. Salat dazu Spaghetti</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Kasselerbraten mit Bratensauce und Sauerkraut dazu Kartoffelpüree</category>
+      <category>Gericht: Hähnchenbrust Piccata Milanese mit Tomatenragout und kl. Salat dazu Spaghetti</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Mon, 23 Mar 2026 09:00:13 +0100</pubDate>
+      <pubDate>Tue, 24 Mar 2026 09:00:17 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Gnocchis mit Gorgonzola-Spinatsauce dazu ein kl. Salat</title>
+      <title>2 Fischfrikadellen mit Knoblauch Dip und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Gnocchis mit Gorgonzola-Spinatsauce dazu ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 2::2 Fischfrikadellen mit Knoblauch Dip und Pommes Frites</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Gnocchis mit Gorgonzola-Spinatsauce dazu ein kl. Salat</category>
+      <category>Gericht: 2 Fischfrikadellen mit Knoblauch Dip und Pommes Frites</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Mon, 23 Mar 2026 09:00:13 +0100</pubDate>
+      <pubDate>Tue, 24 Mar 2026 09:00:17 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Bunte Reispfanne mit Karotten, Zucchini, Zwiebeln, Paprika und Asia-Sauce</title>
+      <title>Karotten-Ingwersuppe mit Kräuter-Schmand und Knoblauchbrötchen</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Bunte Reispfanne mit Karotten, Zucchini, Zwiebeln, Paprika und Asia-Sauce</guid>
+      <guid isPermaLink="false">Menü 1::Karotten-Ingwersuppe mit Kräuter-Schmand und Knoblauchbrötchen</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Bunte Reispfanne mit Karotten, Zucchini, Zwiebeln, Paprika und Asia-Sauce</category>
+      <category>Gericht: Karotten-Ingwersuppe mit Kräuter-Schmand und Knoblauchbrötchen</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Mon, 23 Mar 2026 09:00:13 +0100</pubDate>
+      <pubDate>Tue, 24 Mar 2026 09:00:17 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
