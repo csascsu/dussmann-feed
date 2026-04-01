@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 31 Mar 2026 08:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 08:00:14 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 31 Mar 2026 10:00:15 +0200</pubDate>
+      <pubDate>Wed, 01 Apr 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Alaska-Seelachs-Bruschetta auf Kräutersauce mit Gurkensalat in Rahm dazu Kartoffeln</title>
+      <title>Paniertes Hähnchenschnitzel an Spargelragout mit Gnocchi</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Alaska-Seelachs-Bruschetta auf Kräutersauce mit Gurkensalat in Rahm dazu Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::Paniertes Hähnchenschnitzel an Spargelragout mit Gnocchi</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Alaska-Seelachs-Bruschetta auf Kräutersauce mit Gurkensalat in Rahm dazu Kartoffeln</category>
+      <category>Gericht: Paniertes Hähnchenschnitzel an Spargelragout mit Gnocchi</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 31 Mar 2026 10:00:15 +0200</pubDate>
+      <pubDate>Wed, 01 Apr 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Veg. Schnitzel Toscana gefüllt mit Tomate und Mozzarella dazu einen kl. Salat und Kartoffelgratin</title>
+      <title>Salat im Glas Caprese mit Vollkorn-Spirelli, Tomaten, Mozzarella, Rucola und Mozzarella, Rucola und Tomatenvinaigrette</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Veg. Schnitzel Toscana gefüllt mit Tomate und Mozzarella dazu einen kl. Salat und Kartoffelgratin</guid>
+      <guid isPermaLink="false">Menü 2::Salat im Glas Caprese mit Vollkorn-Spirelli, Tomaten, Mozzarella, Rucola und Mozzarella, Rucola und Tomatenvinaigrette</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Veg. Schnitzel Toscana gefüllt mit Tomate und Mozzarella dazu einen kl. Salat und Kartoffelgratin</category>
+      <category>Gericht: Salat im Glas Caprese mit Vollkorn-Spirelli, Tomaten, Mozzarella, Rucola und Mozzarella, Rucola und Tomatenvinaigrette</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 31 Mar 2026 10:00:15 +0200</pubDate>
+      <pubDate>Wed, 01 Apr 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Spargelcremesuppe mit Grünem Spargel und Sahne</title>
+      <title>Vegetarische Thai-Curry-Suppe mit frischem Gemüse und Kokosmilch</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Spargelcremesuppe mit Grünem Spargel und Sahne</guid>
+      <guid isPermaLink="false">Menü 1::Vegetarische Thai-Curry-Suppe mit frischem Gemüse und Kokosmilch</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Spargelcremesuppe mit Grünem Spargel und Sahne</category>
+      <category>Gericht: Vegetarische Thai-Curry-Suppe mit frischem Gemüse und Kokosmilch</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 31 Mar 2026 10:00:15 +0200</pubDate>
+      <pubDate>Wed, 01 Apr 2026 10:00:15 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
