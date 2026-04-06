@@ -7,6 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 05 Apr 2026 08:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 08:00:16 +0000</lastBuildDate>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Geschlossen Frohe Ostern</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>Kein Preis</description>
+      <guid isPermaLink="false">Menü 4::Geschlossen Frohe Ostern</guid>
+      <category>Menü: Menü 4</category>
+      <category>Gericht: Geschlossen Frohe Ostern</category>
+      <category>Preis: Kein Preis</category>
+      <pubDate>Mon, 06 Apr 2026 10:00:16 +0200</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Geschlossen Frohe Ostern</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>0,00 €</description>
+      <guid isPermaLink="false">Menü 3::Geschlossen Frohe Ostern</guid>
+      <category>Menü: Menü 3</category>
+      <category>Gericht: Geschlossen Frohe Ostern</category>
+      <category>Preis: 0,00 €</category>
+      <pubDate>Mon, 06 Apr 2026 10:00:16 +0200</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Geschlossen Frohe Ostern</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>0,00 €</description>
+      <guid isPermaLink="false">Menü 2::Geschlossen Frohe Ostern</guid>
+      <category>Menü: Menü 2</category>
+      <category>Gericht: Geschlossen Frohe Ostern</category>
+      <category>Preis: 0,00 €</category>
+      <pubDate>Mon, 06 Apr 2026 10:00:16 +0200</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Geschlossen Frohe Ostern</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>0,00 €</description>
+      <guid isPermaLink="false">Menü 1::Geschlossen Frohe Ostern</guid>
+      <category>Menü: Menü 1</category>
+      <category>Gericht: Geschlossen Frohe Ostern</category>
+      <category>Preis: 0,00 €</category>
+      <pubDate>Mon, 06 Apr 2026 10:00:16 +0200</pubDate>
+    </item>
   </channel>
 </rdf:RDF>
