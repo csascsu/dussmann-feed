@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 07 Apr 2026 08:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 08:00:13 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 07 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Wed, 08 Apr 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Paniertes Schweineschnitzel mit Pfeffersauce und Erbsen dazu Pommes Frites</title>
+      <title>Hähnchengeschnetzeltes mit Paprika und Champignons dazu Butterreis und ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Paniertes Schweineschnitzel mit Pfeffersauce und Erbsen dazu Pommes Frites</guid>
+      <guid isPermaLink="false">Menü 3::Hähnchengeschnetzeltes mit Paprika und Champignons dazu Butterreis und ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Paniertes Schweineschnitzel mit Pfeffersauce und Erbsen dazu Pommes Frites</category>
+      <category>Gericht: Hähnchengeschnetzeltes mit Paprika und Champignons dazu Butterreis und ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 07 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Wed, 08 Apr 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Veg. Emmentaler Schnitzel mit Sauce Hollandaise und Erbsen dazu Pommes Frites</title>
+      <title>2 Brathering mit Remouladen Sauce und dazu Bratkartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Veg. Emmentaler Schnitzel mit Sauce Hollandaise und Erbsen dazu Pommes Frites</guid>
+      <guid isPermaLink="false">Menü 2::2 Brathering mit Remouladen Sauce und dazu Bratkartoffeln</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Veg. Emmentaler Schnitzel mit Sauce Hollandaise und Erbsen dazu Pommes Frites</category>
+      <category>Gericht: 2 Brathering mit Remouladen Sauce und dazu Bratkartoffeln</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 07 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Wed, 08 Apr 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Erbsensuppe mit Suppengemüse und Geflügel-Wiener dazu ein Brötchen</title>
+      <title>Cappelletti mit Tomate-Ricottafüllung an Tomatensauce- Basilikumsauce</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Erbsensuppe mit Suppengemüse und Geflügel-Wiener dazu ein Brötchen</guid>
+      <guid isPermaLink="false">Menü 1::Cappelletti mit Tomate-Ricottafüllung an Tomatensauce- Basilikumsauce</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Erbsensuppe mit Suppengemüse und Geflügel-Wiener dazu ein Brötchen</category>
+      <category>Gericht: Cappelletti mit Tomate-Ricottafüllung an Tomatensauce- Basilikumsauce</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 07 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Wed, 08 Apr 2026 10:00:13 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
