@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 08 Apr 2026 08:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:36:49 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Wed, 08 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2026 09:36:49 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Hähnchengeschnetzeltes mit Paprika und Champignons dazu Butterreis und ein kl. Salat</title>
+      <title>Schweinenackenbraten mit Bratensauce und Apfelrotkohl dazu Kartoffelklöße</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Hähnchengeschnetzeltes mit Paprika und Champignons dazu Butterreis und ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Schweinenackenbraten mit Bratensauce und Apfelrotkohl dazu Kartoffelklöße</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Hähnchengeschnetzeltes mit Paprika und Champignons dazu Butterreis und ein kl. Salat</category>
+      <category>Gericht: Schweinenackenbraten mit Bratensauce und Apfelrotkohl dazu Kartoffelklöße</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 08 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2026 09:36:49 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>2 Brathering mit Remouladen Sauce und dazu Bratkartoffeln</title>
+      <title>Gemüseköttbullar mit Kräuter Dip und Gemüsereis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::2 Brathering mit Remouladen Sauce und dazu Bratkartoffeln</guid>
+      <guid isPermaLink="false">Menü 2::Gemüseköttbullar mit Kräuter Dip und Gemüsereis</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: 2 Brathering mit Remouladen Sauce und dazu Bratkartoffeln</category>
+      <category>Gericht: Gemüseköttbullar mit Kräuter Dip und Gemüsereis</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 08 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2026 09:36:49 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Cappelletti mit Tomate-Ricottafüllung an Tomatensauce- Basilikumsauce</title>
+      <title>Weißkohleintopf mit Schweinebauch dazu Schweinebauch dazu ein Brötchen</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Cappelletti mit Tomate-Ricottafüllung an Tomatensauce- Basilikumsauce</guid>
+      <guid isPermaLink="false">Menü 1::Weißkohleintopf mit Schweinebauch dazu Schweinebauch dazu ein Brötchen</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Cappelletti mit Tomate-Ricottafüllung an Tomatensauce- Basilikumsauce</category>
+      <category>Gericht: Weißkohleintopf mit Schweinebauch dazu Schweinebauch dazu ein Brötchen</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Wed, 08 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2026 09:36:49 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
