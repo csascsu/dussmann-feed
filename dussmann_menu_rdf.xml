@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 12 Apr 2026 08:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 08:00:13 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,7 +16,7 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Sun, 12 Apr 2026 10:00:16 +0200</pubDate>
+      <pubDate>Mon, 13 Apr 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Schweineschnitzel mit Rahmchampignons Sauce und Vichy Möhren dazu Kartoffeln</title>
@@ -26,7 +26,7 @@
       <category>Menü: Menü 3</category>
       <category>Gericht: Schweineschnitzel mit Rahmchampignons Sauce und Vichy Möhren dazu Kartoffeln</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Sun, 12 Apr 2026 10:00:16 +0200</pubDate>
+      <pubDate>Mon, 13 Apr 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>3 Gekochte Eier in leichter Senfsauce dazu Kartoffeln und ein kl. Salat</title>
@@ -36,7 +36,7 @@
       <category>Menü: Menü 2</category>
       <category>Gericht: 3 Gekochte Eier in leichter Senfsauce dazu Kartoffeln und ein kl. Salat</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Sun, 12 Apr 2026 10:00:16 +0200</pubDate>
+      <pubDate>Mon, 13 Apr 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Spaghetti mit Sauce Napoli</title>
@@ -46,7 +46,7 @@
       <category>Menü: Menü 1</category>
       <category>Gericht: Spaghetti mit Sauce Napoli</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Sun, 12 Apr 2026 10:00:16 +0200</pubDate>
+      <pubDate>Mon, 13 Apr 2026 10:00:13 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
