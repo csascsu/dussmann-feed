@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 15 Apr 2026 08:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 08:00:14 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Wed, 15 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 16 Apr 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Paniertes Hähnchenschnitzel am Curryfruchtsauce mit Zucchini-Gemüse und Butterreis</title>
+      <title>Pangasius im Knuspermantel mit Kräuter Dip und Kartoffel-Gemüse-Pfanne</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Paniertes Hähnchenschnitzel am Curryfruchtsauce mit Zucchini-Gemüse und Butterreis</guid>
+      <guid isPermaLink="false">Menü 3::Pangasius im Knuspermantel mit Kräuter Dip und Kartoffel-Gemüse-Pfanne</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Paniertes Hähnchenschnitzel am Curryfruchtsauce mit Zucchini-Gemüse und Butterreis</category>
+      <category>Gericht: Pangasius im Knuspermantel mit Kräuter Dip und Kartoffel-Gemüse-Pfanne</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 15 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 16 Apr 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Rote Betepuffer mit Buttererbsen und Süßkartoffelpüree</title>
+      <title>Mexikanisch Bohnenpfanne mit Rinderhackfleisch, Weiße Bohnen, Grüne Bohnen, Rote Bohnen und Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Rote Betepuffer mit Buttererbsen und Süßkartoffelpüree</guid>
+      <guid isPermaLink="false">Menü 2::Mexikanisch Bohnenpfanne mit Rinderhackfleisch, Weiße Bohnen, Grüne Bohnen, Rote Bohnen und Kartoffeln</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Rote Betepuffer mit Buttererbsen und Süßkartoffelpüree</category>
+      <category>Gericht: Mexikanisch Bohnenpfanne mit Rinderhackfleisch, Weiße Bohnen, Grüne Bohnen, Rote Bohnen und Kartoffeln</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 15 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 16 Apr 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Scharfe Tomaten-Paprika-Suppe mit Schmand und Knoblauchbrötchen</title>
+      <title>Mini-Germknödel mit Vanillesauce</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Scharfe Tomaten-Paprika-Suppe mit Schmand und Knoblauchbrötchen</guid>
+      <guid isPermaLink="false">Menü 1::Mini-Germknödel mit Vanillesauce</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Scharfe Tomaten-Paprika-Suppe mit Schmand und Knoblauchbrötchen</category>
+      <category>Gericht: Mini-Germknödel mit Vanillesauce</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Wed, 15 Apr 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 16 Apr 2026 10:00:15 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
