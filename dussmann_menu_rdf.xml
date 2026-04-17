@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Apr 2026 08:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 08:00:19 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Thu, 16 Apr 2026 10:00:15 +0200</pubDate>
+      <pubDate>Fri, 17 Apr 2026 10:00:19 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Pangasius im Knuspermantel mit Kräuter Dip und Kartoffel-Gemüse-Pfanne</title>
+      <title>Rinderhackbällchen in Tomatensauce mit Hirtenkäse dazu Mais und Butterreis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Pangasius im Knuspermantel mit Kräuter Dip und Kartoffel-Gemüse-Pfanne</guid>
+      <guid isPermaLink="false">Menü 3::Rinderhackbällchen in Tomatensauce mit Hirtenkäse dazu Mais und Butterreis</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Pangasius im Knuspermantel mit Kräuter Dip und Kartoffel-Gemüse-Pfanne</category>
+      <category>Gericht: Rinderhackbällchen in Tomatensauce mit Hirtenkäse dazu Mais und Butterreis</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Thu, 16 Apr 2026 10:00:15 +0200</pubDate>
+      <pubDate>Fri, 17 Apr 2026 10:00:19 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Mexikanisch Bohnenpfanne mit Rinderhackfleisch, Weiße Bohnen, Grüne Bohnen, Rote Bohnen und Kartoffeln</title>
-      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Mexikanisch Bohnenpfanne mit Rinderhackfleisch, Weiße Bohnen, Grüne Bohnen, Rote Bohnen und Kartoffeln</guid>
-      <category>Menü: Menü 2</category>
-      <category>Gericht: Mexikanisch Bohnenpfanne mit Rinderhackfleisch, Weiße Bohnen, Grüne Bohnen, Rote Bohnen und Kartoffeln</category>
-      <category>Preis: 7,90 €</category>
-      <pubDate>Thu, 16 Apr 2026 10:00:15 +0200</pubDate>
-    </item>
-    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Mini-Germknödel mit Vanillesauce</title>
+      <title>Kürbis-Falafel an Bratgemüse mit Butterreis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Mini-Germknödel mit Vanillesauce</guid>
+      <guid isPermaLink="false">Menü 1::Kürbis-Falafel an Bratgemüse mit Butterreis</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Mini-Germknödel mit Vanillesauce</category>
+      <category>Gericht: Kürbis-Falafel an Bratgemüse mit Butterreis</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Thu, 16 Apr 2026 10:00:15 +0200</pubDate>
+      <pubDate>Fri, 17 Apr 2026 10:00:19 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
