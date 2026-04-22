@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 21 Apr 2026 08:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 08:00:14 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 21 Apr 2026 10:00:17 +0200</pubDate>
+      <pubDate>Wed, 22 Apr 2026 10:00:14 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Hähnchendönerfleisch mit Knoblauch Dip und Rotkrautsalat dazu Pommes Frites</title>
+      <title>Paniertes Schollenfilet mit Frankfurter Grüne Sauce dazu Gurkensalat in Rahm und Bratkartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Hähnchendönerfleisch mit Knoblauch Dip und Rotkrautsalat dazu Pommes Frites</guid>
+      <guid isPermaLink="false">Menü 3::Paniertes Schollenfilet mit Frankfurter Grüne Sauce dazu Gurkensalat in Rahm und Bratkartoffeln</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Hähnchendönerfleisch mit Knoblauch Dip und Rotkrautsalat dazu Pommes Frites</category>
+      <category>Gericht: Paniertes Schollenfilet mit Frankfurter Grüne Sauce dazu Gurkensalat in Rahm und Bratkartoffeln</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 21 Apr 2026 10:00:17 +0200</pubDate>
+      <pubDate>Wed, 22 Apr 2026 10:00:14 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Polentaschnitte mit Ratatouille-Gemüse</title>
+      <title>Berner Rösti mit Zwiebeln, Speck und Käse überbacken dazu ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Polentaschnitte mit Ratatouille-Gemüse</guid>
+      <guid isPermaLink="false">Menü 2::Berner Rösti mit Zwiebeln, Speck und Käse überbacken dazu ein kl. Salat</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Polentaschnitte mit Ratatouille-Gemüse</category>
+      <category>Gericht: Berner Rösti mit Zwiebeln, Speck und Käse überbacken dazu ein kl. Salat</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 21 Apr 2026 10:00:17 +0200</pubDate>
+      <pubDate>Wed, 22 Apr 2026 10:00:14 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Cremige Kartoffel-Käsesuppe mit Lauchstreifen dazu ein Knoblauchbrötchen</title>
+      <title>Ofenkartoffel mit Kräuter Dip und einer Salatbeilage</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Cremige Kartoffel-Käsesuppe mit Lauchstreifen dazu ein Knoblauchbrötchen</guid>
+      <guid isPermaLink="false">Menü 1::Ofenkartoffel mit Kräuter Dip und einer Salatbeilage</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Cremige Kartoffel-Käsesuppe mit Lauchstreifen dazu ein Knoblauchbrötchen</category>
+      <category>Gericht: Ofenkartoffel mit Kräuter Dip und einer Salatbeilage</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 21 Apr 2026 10:00:17 +0200</pubDate>
+      <pubDate>Wed, 22 Apr 2026 10:00:14 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
