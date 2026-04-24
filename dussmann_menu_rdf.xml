@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Apr 2026 08:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:00:12 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Thu, 23 Apr 2026 10:00:12 +0200</pubDate>
+      <pubDate>Fri, 24 Apr 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Schweinegulasch aus der Schulter mit Champignons und Paprika dazu Fusilli und ein kl. Salat</title>
+      <title>Italienische Hähnchenbrust mit Oliven, Zwiebeln in Tomaten- Sauce dazu ein kl. Salat und Spaghetti</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Schweinegulasch aus der Schulter mit Champignons und Paprika dazu Fusilli und ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Italienische Hähnchenbrust mit Oliven, Zwiebeln in Tomaten- Sauce dazu ein kl. Salat und Spaghetti</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Schweinegulasch aus der Schulter mit Champignons und Paprika dazu Fusilli und ein kl. Salat</category>
+      <category>Gericht: Italienische Hähnchenbrust mit Oliven, Zwiebeln in Tomaten- Sauce dazu ein kl. Salat und Spaghetti</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Thu, 23 Apr 2026 10:00:12 +0200</pubDate>
+      <pubDate>Fri, 24 Apr 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>2 Fischfrikadellen mit Remouladen Sauce und buntem Kartoffelsalat</title>
-      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::2 Fischfrikadellen mit Remouladen Sauce und buntem Kartoffelsalat</guid>
-      <category>Menü: Menü 2</category>
-      <category>Gericht: 2 Fischfrikadellen mit Remouladen Sauce und buntem Kartoffelsalat</category>
-      <category>Preis: 7,90 €</category>
-      <pubDate>Thu, 23 Apr 2026 10:00:12 +0200</pubDate>
-    </item>
-    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Bunter Kartoffelauflauf mit frischem Gemüse und Käse überbacken</title>
+      <title>Kaiserschmarrn mit Rosinen und Apfelkompott dazu Zimt und Zucker .</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Bunter Kartoffelauflauf mit frischem Gemüse und Käse überbacken</guid>
+      <guid isPermaLink="false">Menü 1::Kaiserschmarrn mit Rosinen und Apfelkompott dazu Zimt und Zucker .</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Bunter Kartoffelauflauf mit frischem Gemüse und Käse überbacken</category>
+      <category>Gericht: Kaiserschmarrn mit Rosinen und Apfelkompott dazu Zimt und Zucker .</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Thu, 23 Apr 2026 10:00:12 +0200</pubDate>
+      <pubDate>Fri, 24 Apr 2026 10:00:13 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
