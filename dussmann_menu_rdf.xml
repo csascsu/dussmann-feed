@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 28 Apr 2026 09:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 08:00:12 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,27 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 28 Apr 2026 11:43:56 +0200</pubDate>
+      <pubDate>Wed, 29 Apr 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Pasta Bascaiola mit Salsiccia und gem Pilze in Sahnesauce dazu Parmesan</title>
+      <title>Lahmacun mit Hähnchen, Eisbergsalat, Rote Zwiebeln, Tomate, Gurke uns Rotkraut Knoblauch-Dip</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Pasta Bascaiola mit Salsiccia und gem Pilze in Sahnesauce dazu Parmesan</guid>
+      <guid isPermaLink="false">Menü 3::Lahmacun mit Hähnchen, Eisbergsalat, Rote Zwiebeln, Tomate, Gurke uns Rotkraut Knoblauch-Dip</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Pasta Bascaiola mit Salsiccia und gem Pilze in Sahnesauce dazu Parmesan</category>
+      <category>Gericht: Lahmacun mit Hähnchen, Eisbergsalat, Rote Zwiebeln, Tomate, Gurke uns Rotkraut Knoblauch-Dip</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 28 Apr 2026 11:43:56 +0200</pubDate>
+      <pubDate>Wed, 29 Apr 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Gelbe Linsensuppe mit Fetakäse mit Fetakäse Knoblauchbrötchen</title>
+      <title>Rustikale Kartoffelpfanne mit buntem Gemüse und Kräuter Dip</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Gelbe Linsensuppe mit Fetakäse mit Fetakäse Knoblauchbrötchen</guid>
+      <guid isPermaLink="false">Menü 1::Rustikale Kartoffelpfanne mit buntem Gemüse und Kräuter Dip</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Gelbe Linsensuppe mit Fetakäse mit Fetakäse Knoblauchbrötchen</category>
+      <category>Gericht: Rustikale Kartoffelpfanne mit buntem Gemüse und Kräuter Dip</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 28 Apr 2026 11:43:56 +0200</pubDate>
+      <pubDate>Wed, 29 Apr 2026 10:00:13 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
