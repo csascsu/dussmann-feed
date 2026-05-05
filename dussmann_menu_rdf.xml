@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 04 May 2026 08:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:00:13 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Mon, 04 May 2026 10:00:13 +0200</pubDate>
+      <pubDate>Tue, 05 May 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Paniertes Hähnchenschnitzel mit Spargelragout dazu Schupfnudeln</title>
+      <title>Rinderhacksteak Texas mit Pfeffersauce und Grüne Bohnen dazu Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Paniertes Hähnchenschnitzel mit Spargelragout dazu Schupfnudeln</guid>
+      <guid isPermaLink="false">Menü 3::Rinderhacksteak Texas mit Pfeffersauce und Grüne Bohnen dazu Kartoffeln</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Paniertes Hähnchenschnitzel mit Spargelragout dazu Schupfnudeln</category>
+      <category>Gericht: Rinderhacksteak Texas mit Pfeffersauce und Grüne Bohnen dazu Kartoffeln</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Mon, 04 May 2026 10:00:13 +0200</pubDate>
+      <pubDate>Tue, 05 May 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Salat im Glas Caprese mit Vollkorn-Spirelli, Tomaten, Mozzarella, Rucola und Tomaten-Vinaigrette</title>
+      <title>Bunter Nudelauflauf mit Schinkenstreifen und Porree und Gouda überbacken</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Salat im Glas Caprese mit Vollkorn-Spirelli, Tomaten, Mozzarella, Rucola und Tomaten-Vinaigrette</guid>
+      <guid isPermaLink="false">Menü 2::Bunter Nudelauflauf mit Schinkenstreifen und Porree und Gouda überbacken</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Salat im Glas Caprese mit Vollkorn-Spirelli, Tomaten, Mozzarella, Rucola und Tomaten-Vinaigrette</category>
+      <category>Gericht: Bunter Nudelauflauf mit Schinkenstreifen und Porree und Gouda überbacken</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Mon, 04 May 2026 10:00:13 +0200</pubDate>
+      <pubDate>Tue, 05 May 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Spargelcremesuppe vom Weißen und Grünem Spargel dazu ein Brötchen</title>
+      <title>3 Kartoffelpuffer mit Apfelkompott und Zimt &amp; Zucker</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Spargelcremesuppe vom Weißen und Grünem Spargel dazu ein Brötchen</guid>
+      <guid isPermaLink="false">Menü 1::3 Kartoffelpuffer mit Apfelkompott und Zimt &amp; Zucker</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Spargelcremesuppe vom Weißen und Grünem Spargel dazu ein Brötchen</category>
+      <category>Gericht: 3 Kartoffelpuffer mit Apfelkompott und Zimt &amp; Zucker</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Mon, 04 May 2026 10:00:13 +0200</pubDate>
+      <pubDate>Tue, 05 May 2026 10:00:13 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
