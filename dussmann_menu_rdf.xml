@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 05 May 2026 08:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 08:00:17 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 05 May 2026 10:00:13 +0200</pubDate>
+      <pubDate>Wed, 06 May 2026 10:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Rinderhacksteak Texas mit Pfeffersauce und Grüne Bohnen dazu Kartoffeln</title>
+      <title>Fischragout vom Seelachs mit Porree und Paprika in Hummersauce und Bandnudeln dazu Gurkensalat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Rinderhacksteak Texas mit Pfeffersauce und Grüne Bohnen dazu Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::Fischragout vom Seelachs mit Porree und Paprika in Hummersauce und Bandnudeln dazu Gurkensalat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Rinderhacksteak Texas mit Pfeffersauce und Grüne Bohnen dazu Kartoffeln</category>
+      <category>Gericht: Fischragout vom Seelachs mit Porree und Paprika in Hummersauce und Bandnudeln dazu Gurkensalat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 05 May 2026 10:00:13 +0200</pubDate>
+      <pubDate>Wed, 06 May 2026 10:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Bunter Nudelauflauf mit Schinkenstreifen und Porree und Gouda überbacken</title>
+      <title>Chorizo-Kartoffel- Kichererbsen-Eintopf mit Knoblauch und Tomaten</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Bunter Nudelauflauf mit Schinkenstreifen und Porree und Gouda überbacken</guid>
+      <guid isPermaLink="false">Menü 2::Chorizo-Kartoffel- Kichererbsen-Eintopf mit Knoblauch und Tomaten</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Bunter Nudelauflauf mit Schinkenstreifen und Porree und Gouda überbacken</category>
+      <category>Gericht: Chorizo-Kartoffel- Kichererbsen-Eintopf mit Knoblauch und Tomaten</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 05 May 2026 10:00:13 +0200</pubDate>
+      <pubDate>Wed, 06 May 2026 10:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>3 Kartoffelpuffer mit Apfelkompott und Zimt &amp; Zucker</title>
+      <title>Käsespätzle mit frischen Kräutern und Röstzwiebeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::3 Kartoffelpuffer mit Apfelkompott und Zimt &amp; Zucker</guid>
+      <guid isPermaLink="false">Menü 1::Käsespätzle mit frischen Kräutern und Röstzwiebeln</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: 3 Kartoffelpuffer mit Apfelkompott und Zimt &amp; Zucker</category>
+      <category>Gericht: Käsespätzle mit frischen Kräutern und Röstzwiebeln</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 05 May 2026 10:00:13 +0200</pubDate>
+      <pubDate>Wed, 06 May 2026 10:00:17 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
