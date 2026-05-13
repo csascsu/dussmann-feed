@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 12 May 2026 08:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:00:14 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 12 May 2026 10:00:15 +0200</pubDate>
+      <pubDate>Wed, 13 May 2026 10:00:14 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Weißer Stangespargel mit Sauce Hollandaise und Kartoffeln dazu ein Paniertes Hähnchenschnitzel</title>
+      <title>Wildlachsfilet auf Blattspinat mit Käsesauce und Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>15,50 €</description>
-      <guid isPermaLink="false">Menü 3::Weißer Stangespargel mit Sauce Hollandaise und Kartoffeln dazu ein Paniertes Hähnchenschnitzel</guid>
+      <description>9,50 €</description>
+      <guid isPermaLink="false">Menü 3::Wildlachsfilet auf Blattspinat mit Käsesauce und Kartoffeln</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Weißer Stangespargel mit Sauce Hollandaise und Kartoffeln dazu ein Paniertes Hähnchenschnitzel</category>
-      <category>Preis: 15,50 €</category>
-      <pubDate>Tue, 12 May 2026 10:00:15 +0200</pubDate>
+      <category>Gericht: Wildlachsfilet auf Blattspinat mit Käsesauce und Kartoffeln</category>
+      <category>Preis: 9,50 €</category>
+      <pubDate>Wed, 13 May 2026 10:00:14 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Weißer Stangespargel mit Sauce Hollandaise und Kartoffeln dazu ein Veg. Emmentaler Schnitzel</title>
-      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>15,90 €</description>
-      <guid isPermaLink="false">Menü 2::Weißer Stangespargel mit Sauce Hollandaise und Kartoffeln dazu ein Veg. Emmentaler Schnitzel</guid>
-      <category>Menü: Menü 2</category>
-      <category>Gericht: Weißer Stangespargel mit Sauce Hollandaise und Kartoffeln dazu ein Veg. Emmentaler Schnitzel</category>
-      <category>Preis: 15,90 €</category>
-      <pubDate>Tue, 12 May 2026 10:00:15 +0200</pubDate>
-    </item>
-    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Veget. Lasagne Bolognese mit Sojabolognese und Käse überbacken</title>
+      <title>Gemüseteller mit Broccoli, Blumenkohl und Möhren dazu Sauce Hollandaise und Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 1::Veget. Lasagne Bolognese mit Sojabolognese und Käse überbacken</guid>
-      <category>Menü: Menü 1</category>
-      <category>Gericht: Veget. Lasagne Bolognese mit Sojabolognese und Käse überbacken</category>
+      <guid isPermaLink="false">Menü 2::Gemüseteller mit Broccoli, Blumenkohl und Möhren dazu Sauce Hollandaise und Kartoffeln</guid>
+      <category>Menü: Menü 2</category>
+      <category>Gericht: Gemüseteller mit Broccoli, Blumenkohl und Möhren dazu Sauce Hollandaise und Kartoffeln</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 12 May 2026 10:00:15 +0200</pubDate>
+      <pubDate>Wed, 13 May 2026 10:00:14 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
