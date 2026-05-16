@@ -7,36 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 15 May 2026 08:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 08:00:15 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>TZH Geschlossen</title>
+      <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>0,00 €</description>
-      <guid isPermaLink="false">Menü 3::TZH Geschlossen</guid>
+      <description>Kein Preis</description>
+      <guid isPermaLink="false">Menü 4::Currywurst mit Ketchup Sauce und Pommes Frites</guid>
+      <category>Menü: Menü 4</category>
+      <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
+      <category>Preis: Kein Preis</category>
+      <pubDate>Sat, 16 May 2026 10:00:16 +0200</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Rinderhackbällchen in Tomatensauce mit Käse überbacken dazu Mais und Butterreis</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>9,50 €</description>
+      <guid isPermaLink="false">Menü 3::Rinderhackbällchen in Tomatensauce mit Käse überbacken dazu Mais und Butterreis</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: TZH Geschlossen</category>
-      <category>Preis: 0,00 €</category>
-      <pubDate>Fri, 15 May 2026 10:00:15 +0200</pubDate>
+      <category>Gericht: Rinderhackbällchen in Tomatensauce mit Käse überbacken dazu Mais und Butterreis</category>
+      <category>Preis: 9,50 €</category>
+      <pubDate>Sat, 16 May 2026 10:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>TZH Geschlossen</title>
+      <title>Salat im Glas Griechisch mit Bulgur, Tomaten, Gurken, Oliven, Hirtenkäse und rote Zwiebeln dazu Joghurtdressing</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>0,00 €</description>
-      <guid isPermaLink="false">Menü 2::TZH Geschlossen</guid>
+      <description>7,90 €</description>
+      <guid isPermaLink="false">Menü 2::Salat im Glas Griechisch mit Bulgur, Tomaten, Gurken, Oliven, Hirtenkäse und rote Zwiebeln dazu Joghurtdressing</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: TZH Geschlossen</category>
-      <category>Preis: 0,00 €</category>
-      <pubDate>Fri, 15 May 2026 10:00:15 +0200</pubDate>
+      <category>Gericht: Salat im Glas Griechisch mit Bulgur, Tomaten, Gurken, Oliven, Hirtenkäse und rote Zwiebeln dazu Joghurtdressing</category>
+      <category>Preis: 7,90 €</category>
+      <pubDate>Sat, 16 May 2026 10:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>TZH Geschlossen</title>
+      <title>Karotten-Ingwersuppe mit Kräuterschmand und einem Brötchen</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>0,00 €</description>
-      <guid isPermaLink="false">Menü 1::TZH Geschlossen</guid>
+      <description>5,00 €</description>
+      <guid isPermaLink="false">Menü 1::Karotten-Ingwersuppe mit Kräuterschmand und einem Brötchen</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: TZH Geschlossen</category>
-      <category>Preis: 0,00 €</category>
-      <pubDate>Fri, 15 May 2026 10:00:15 +0200</pubDate>
+      <category>Gericht: Karotten-Ingwersuppe mit Kräuterschmand und einem Brötchen</category>
+      <category>Preis: 5,00 €</category>
+      <pubDate>Sat, 16 May 2026 10:00:16 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
