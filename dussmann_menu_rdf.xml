@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 19 May 2026 08:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:00:13 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 19 May 2026 10:00:12 +0200</pubDate>
+      <pubDate>Wed, 20 May 2026 10:00:14 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Schweineschnitzel mit Jägersauce und kl. Salat dazu Pommes Frites</title>
+      <title>1/2 Grillhähnchen mit hausgemachtem Coleslaw Salat dazu Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Schweineschnitzel mit Jägersauce und kl. Salat dazu Pommes Frites</guid>
+      <guid isPermaLink="false">Menü 3::1/2 Grillhähnchen mit hausgemachtem Coleslaw Salat dazu Pommes Frites</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Schweineschnitzel mit Jägersauce und kl. Salat dazu Pommes Frites</category>
+      <category>Gericht: 1/2 Grillhähnchen mit hausgemachtem Coleslaw Salat dazu Pommes Frites</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 19 May 2026 10:00:12 +0200</pubDate>
+      <pubDate>Wed, 20 May 2026 10:00:14 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Salat im Glas Griechisch mit Bulgur, Tomaten, Gurken, Oliven, Hirtenkäse und rote Zwiebeln dazu Joghurtdressing</title>
+      <title>Salat im Glas Marokko mit Couscous, Möhren, Kichererbsen, Römersalat, Sesam und Dressing</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Salat im Glas Griechisch mit Bulgur, Tomaten, Gurken, Oliven, Hirtenkäse und rote Zwiebeln dazu Joghurtdressing</guid>
+      <guid isPermaLink="false">Menü 2::Salat im Glas Marokko mit Couscous, Möhren, Kichererbsen, Römersalat, Sesam und Dressing</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Salat im Glas Griechisch mit Bulgur, Tomaten, Gurken, Oliven, Hirtenkäse und rote Zwiebeln dazu Joghurtdressing</category>
+      <category>Gericht: Salat im Glas Marokko mit Couscous, Möhren, Kichererbsen, Römersalat, Sesam und Dressing</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 19 May 2026 10:00:12 +0200</pubDate>
+      <pubDate>Wed, 20 May 2026 10:00:14 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Penne mit Arrabiata Sauce und Parmesan</title>
+      <title>Milchreis mit Rhabarber-Kompott und Zimt &amp; Zucker mit</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Penne mit Arrabiata Sauce und Parmesan</guid>
+      <guid isPermaLink="false">Menü 1::Milchreis mit Rhabarber-Kompott und Zimt &amp; Zucker mit</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Penne mit Arrabiata Sauce und Parmesan</category>
+      <category>Gericht: Milchreis mit Rhabarber-Kompott und Zimt &amp; Zucker mit</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 19 May 2026 10:00:12 +0200</pubDate>
+      <pubDate>Wed, 20 May 2026 10:00:14 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
