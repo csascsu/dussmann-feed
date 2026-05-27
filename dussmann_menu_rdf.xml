@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 26 May 2026 08:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 08:00:16 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,27 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 26 May 2026 10:00:14 +0200</pubDate>
+      <pubDate>Wed, 27 May 2026 10:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Putengeschnetzeltes " Zürcher Art" mit Champignons und Spätzle-Knöpfe dazu ein kl. Salat</title>
+      <title>Paniertes Schollenfilet mit Remouladen Sauce und Gurkensalat dazu Bratkartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Putengeschnetzeltes " Zürcher Art" mit Champignons und Spätzle-Knöpfe dazu ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Paniertes Schollenfilet mit Remouladen Sauce und Gurkensalat dazu Bratkartoffeln</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Putengeschnetzeltes " Zürcher Art" mit Champignons und Spätzle-Knöpfe dazu ein kl. Salat</category>
+      <category>Gericht: Paniertes Schollenfilet mit Remouladen Sauce und Gurkensalat dazu Bratkartoffeln</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 26 May 2026 10:00:14 +0200</pubDate>
+      <pubDate>Wed, 27 May 2026 10:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Veganes Gyros mit Tzatziki und Bauernsalat dazu Fladenbrot</title>
+      <title>Kartoffel-Spargel-Auflauf mit Bechamel, Tomatenwürfel und Käse überbacken</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Veganes Gyros mit Tzatziki und Bauernsalat dazu Fladenbrot</guid>
+      <guid isPermaLink="false">Menü 2::Kartoffel-Spargel-Auflauf mit Bechamel, Tomatenwürfel und Käse überbacken</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Veganes Gyros mit Tzatziki und Bauernsalat dazu Fladenbrot</category>
+      <category>Gericht: Kartoffel-Spargel-Auflauf mit Bechamel, Tomatenwürfel und Käse überbacken</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 26 May 2026 10:00:14 +0200</pubDate>
+      <pubDate>Wed, 27 May 2026 10:00:16 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
