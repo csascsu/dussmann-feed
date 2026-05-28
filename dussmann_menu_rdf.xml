@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 27 May 2026 08:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:00:17 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,27 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Wed, 27 May 2026 10:00:16 +0200</pubDate>
+      <pubDate>Thu, 28 May 2026 10:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Paniertes Schollenfilet mit Remouladen Sauce und Gurkensalat dazu Bratkartoffeln</title>
+      <title>Paniertes Schweinekotelette mit Gestovte Bohnen und Kartoffelpüree</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Paniertes Schollenfilet mit Remouladen Sauce und Gurkensalat dazu Bratkartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::Paniertes Schweinekotelette mit Gestovte Bohnen und Kartoffelpüree</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Paniertes Schollenfilet mit Remouladen Sauce und Gurkensalat dazu Bratkartoffeln</category>
+      <category>Gericht: Paniertes Schweinekotelette mit Gestovte Bohnen und Kartoffelpüree</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 27 May 2026 10:00:16 +0200</pubDate>
+      <pubDate>Thu, 28 May 2026 10:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Kartoffel-Spargel-Auflauf mit Bechamel, Tomatenwürfel und Käse überbacken</title>
+      <title>Bunte Salat-Bowl mit roten Linsen, gem. Salat, Gurken, Tomaten, Paprika und einem gek. Ei dazu Dressing</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Kartoffel-Spargel-Auflauf mit Bechamel, Tomatenwürfel und Käse überbacken</guid>
+      <guid isPermaLink="false">Menü 2::Bunte Salat-Bowl mit roten Linsen, gem. Salat, Gurken, Tomaten, Paprika und einem gek. Ei dazu Dressing</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Kartoffel-Spargel-Auflauf mit Bechamel, Tomatenwürfel und Käse überbacken</category>
+      <category>Gericht: Bunte Salat-Bowl mit roten Linsen, gem. Salat, Gurken, Tomaten, Paprika und einem gek. Ei dazu Dressing</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 27 May 2026 10:00:16 +0200</pubDate>
+      <pubDate>Thu, 28 May 2026 10:00:17 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
