@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 08 Jun 2026 08:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:00:16 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Mon, 08 Jun 2026 10:00:16 +0200</pubDate>
+      <pubDate>Tue, 09 Jun 2026 10:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Schnitzel Hawaii an Curryfruchtsauce dazu ein kl.Salat und Butterreis</title>
+      <title>Hähnchendönerfleisch mit Knoblauch Dip und Coleslaw Salat dazu Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Schnitzel Hawaii an Curryfruchtsauce dazu ein kl.Salat und Butterreis</guid>
+      <guid isPermaLink="false">Menü 3::Hähnchendönerfleisch mit Knoblauch Dip und Coleslaw Salat dazu Pommes Frites</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Schnitzel Hawaii an Curryfruchtsauce dazu ein kl.Salat und Butterreis</category>
+      <category>Gericht: Hähnchendönerfleisch mit Knoblauch Dip und Coleslaw Salat dazu Pommes Frites</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Mon, 08 Jun 2026 10:00:16 +0200</pubDate>
+      <pubDate>Tue, 09 Jun 2026 10:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Quinoa-Bowl mit Kichererbsen, Möhren, Ei, Tomaten, Gurken, Rucola und Rote Zwiebeln dazu Thunfisch</title>
+      <title>Gnocchi in Gorgonzola-Spinatsauce dazu ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Quinoa-Bowl mit Kichererbsen, Möhren, Ei, Tomaten, Gurken, Rucola und Rote Zwiebeln dazu Thunfisch</guid>
+      <guid isPermaLink="false">Menü 2::Gnocchi in Gorgonzola-Spinatsauce dazu ein kl. Salat</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Quinoa-Bowl mit Kichererbsen, Möhren, Ei, Tomaten, Gurken, Rucola und Rote Zwiebeln dazu Thunfisch</category>
+      <category>Gericht: Gnocchi in Gorgonzola-Spinatsauce dazu ein kl. Salat</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Mon, 08 Jun 2026 10:00:16 +0200</pubDate>
+      <pubDate>Tue, 09 Jun 2026 10:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Spaghetti mit Sauce Napoli</title>
+      <title>Spargelcremesuppe mit Brötchen</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Spaghetti mit Sauce Napoli</guid>
+      <guid isPermaLink="false">Menü 1::Spargelcremesuppe mit Brötchen</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Spaghetti mit Sauce Napoli</category>
+      <category>Gericht: Spargelcremesuppe mit Brötchen</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Mon, 08 Jun 2026 10:00:16 +0200</pubDate>
+      <pubDate>Tue, 09 Jun 2026 10:00:16 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
