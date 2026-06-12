@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 11 Jun 2026 08:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:00:14 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Thu, 11 Jun 2026 10:00:13 +0200</pubDate>
+      <pubDate>Fri, 12 Jun 2026 10:00:14 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Knusper-Filet mit Käse-Kräuterfüllung an Kräutersauce mit Kohlrabigemüse und Kartoffeln</title>
+      <title>Hausgemachte Frikadellen mit Gestovte Bohnen und Kartoffelpüree</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Knusper-Filet mit Käse-Kräuterfüllung an Kräutersauce mit Kohlrabigemüse und Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::Hausgemachte Frikadellen mit Gestovte Bohnen und Kartoffelpüree</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Knusper-Filet mit Käse-Kräuterfüllung an Kräutersauce mit Kohlrabigemüse und Kartoffeln</category>
+      <category>Gericht: Hausgemachte Frikadellen mit Gestovte Bohnen und Kartoffelpüree</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Thu, 11 Jun 2026 10:00:13 +0200</pubDate>
+      <pubDate>Fri, 12 Jun 2026 10:00:14 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Nasi Goreng mit Hähnchenstreifen, Lauch, Erbsen und Möhren und Ei . . .</title>
-      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Nasi Goreng mit Hähnchenstreifen, Lauch, Erbsen und Möhren und Ei . . .</guid>
-      <category>Menü: Menü 2</category>
-      <category>Gericht: Nasi Goreng mit Hähnchenstreifen, Lauch, Erbsen und Möhren und Ei . . .</category>
-      <category>Preis: 7,90 €</category>
-      <pubDate>Thu, 11 Jun 2026 10:00:13 +0200</pubDate>
-    </item>
-    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Ravioli Grano Duro Pomodoro mit Basilikum-Sahnesauce</title>
+      <title>Kartoffeltasche " Toskana" mit Salatbeilage und Kräuter Dip</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Ravioli Grano Duro Pomodoro mit Basilikum-Sahnesauce</guid>
+      <guid isPermaLink="false">Menü 1::Kartoffeltasche " Toskana" mit Salatbeilage und Kräuter Dip</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Ravioli Grano Duro Pomodoro mit Basilikum-Sahnesauce</category>
+      <category>Gericht: Kartoffeltasche " Toskana" mit Salatbeilage und Kräuter Dip</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Thu, 11 Jun 2026 10:00:13 +0200</pubDate>
+      <pubDate>Fri, 12 Jun 2026 10:00:14 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
