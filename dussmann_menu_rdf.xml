@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 06:26:00 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Thu, 18 Jun 2026 10:00:18 +0200</pubDate>
+      <pubDate>Fri, 19 Jun 2026 08:26:01 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Schweinerückensteak mit Kräuterbutter und Grüne Bohnen dazu Pommes Frites</title>
+      <title>Rinderleber mit Geschmorte Äpfel und Zwiebeln dazu Kartoffelpüree</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Schweinerückensteak mit Kräuterbutter und Grüne Bohnen dazu Pommes Frites</guid>
+      <guid isPermaLink="false">Menü 3::Rinderleber mit Geschmorte Äpfel und Zwiebeln dazu Kartoffelpüree</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Schweinerückensteak mit Kräuterbutter und Grüne Bohnen dazu Pommes Frites</category>
+      <category>Gericht: Rinderleber mit Geschmorte Äpfel und Zwiebeln dazu Kartoffelpüree</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Thu, 18 Jun 2026 10:00:18 +0200</pubDate>
+      <pubDate>Fri, 19 Jun 2026 08:26:01 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Thai-Curry-Suppe mit Hähnchenfleisch und frischem Gemüse und Kokosmilch</title>
-      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Thai-Curry-Suppe mit Hähnchenfleisch und frischem Gemüse und Kokosmilch</guid>
-      <category>Menü: Menü 2</category>
-      <category>Gericht: Thai-Curry-Suppe mit Hähnchenfleisch und frischem Gemüse und Kokosmilch</category>
-      <category>Preis: 7,90 €</category>
-      <pubDate>Thu, 18 Jun 2026 10:00:18 +0200</pubDate>
-    </item>
-    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Gekochte Eier in leichter Senfsauce . . Kartoffeln</title>
+      <title>Cannelloni mit Ricotta-Spinat-Füllung in Tomatensauce und Käse überbacken</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Gekochte Eier in leichter Senfsauce . . Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 1::Cannelloni mit Ricotta-Spinat-Füllung in Tomatensauce und Käse überbacken</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Gekochte Eier in leichter Senfsauce . . Kartoffeln</category>
+      <category>Gericht: Cannelloni mit Ricotta-Spinat-Füllung in Tomatensauce und Käse überbacken</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Thu, 18 Jun 2026 10:00:18 +0200</pubDate>
+      <pubDate>Fri, 19 Jun 2026 08:26:01 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
