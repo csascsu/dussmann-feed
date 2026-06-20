@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 08:00:12 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,27 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Fri, 19 Jun 2026 10:00:13 +0200</pubDate>
+      <pubDate>Sat, 20 Jun 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Rinderleber mit Geschmorte Äpfel und Zwiebeln dazu Kartoffelpüree</title>
+      <title>Paniertes Hähnchenschnitzel mit Sauce Hollandaise und frischem Blumenkohl dazu Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Rinderleber mit Geschmorte Äpfel und Zwiebeln dazu Kartoffelpüree</guid>
+      <guid isPermaLink="false">Menü 3::Paniertes Hähnchenschnitzel mit Sauce Hollandaise und frischem Blumenkohl dazu Kartoffeln</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Rinderleber mit Geschmorte Äpfel und Zwiebeln dazu Kartoffelpüree</category>
+      <category>Gericht: Paniertes Hähnchenschnitzel mit Sauce Hollandaise und frischem Blumenkohl dazu Kartoffeln</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Fri, 19 Jun 2026 10:00:13 +0200</pubDate>
+      <pubDate>Sat, 20 Jun 2026 10:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Cannelloni mit Ricotta-Spinat-Füllung in Tomatensauce und Käse überbacken</title>
+      <title>Reis-Bowl mit Basmatireis, Chinakohl, Möhren, rote Paprika, Avocado, Cashewkerne, Cranberry mit Sweet-Chili-Sauce und Sesam</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>7,90 €</description>
+      <guid isPermaLink="false">Menü 2::Reis-Bowl mit Basmatireis, Chinakohl, Möhren, rote Paprika, Avocado, Cashewkerne, Cranberry mit Sweet-Chili-Sauce und Sesam</guid>
+      <category>Menü: Menü 2</category>
+      <category>Gericht: Reis-Bowl mit Basmatireis, Chinakohl, Möhren, rote Paprika, Avocado, Cashewkerne, Cranberry mit Sweet-Chili-Sauce und Sesam</category>
+      <category>Preis: 7,90 €</category>
+      <pubDate>Sat, 20 Jun 2026 10:00:13 +0200</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Spaghetti alla Puttanesca Kapern und Tomatensauce mit Knoblauch, Zwiebeln, Oliven</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Cannelloni mit Ricotta-Spinat-Füllung in Tomatensauce und Käse überbacken</guid>
+      <guid isPermaLink="false">Menü 1::Spaghetti alla Puttanesca Kapern und Tomatensauce mit Knoblauch, Zwiebeln, Oliven</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Cannelloni mit Ricotta-Spinat-Füllung in Tomatensauce und Käse überbacken</category>
+      <category>Gericht: Spaghetti alla Puttanesca Kapern und Tomatensauce mit Knoblauch, Zwiebeln, Oliven</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Fri, 19 Jun 2026 10:00:13 +0200</pubDate>
+      <pubDate>Sat, 20 Jun 2026 10:00:13 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
