@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 23 Jun 2026 08:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:00:14 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 23 Jun 2026 10:00:14 +0200</pubDate>
+      <pubDate>Wed, 24 Jun 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Knusper-Filet mit Käse-Kräuterfüllung an Remouladen Sauce und Gurkensalat in Rahm dazu Bratkartoffeln</title>
+      <title>Lasagne Bolognese Rinderhackfleisch und Bechamelsauce mit Gouda überbacken dazu ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Knusper-Filet mit Käse-Kräuterfüllung an Remouladen Sauce und Gurkensalat in Rahm dazu Bratkartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::Lasagne Bolognese Rinderhackfleisch und Bechamelsauce mit Gouda überbacken dazu ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Knusper-Filet mit Käse-Kräuterfüllung an Remouladen Sauce und Gurkensalat in Rahm dazu Bratkartoffeln</category>
+      <category>Gericht: Lasagne Bolognese Rinderhackfleisch und Bechamelsauce mit Gouda überbacken dazu ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 23 Jun 2026 10:00:14 +0200</pubDate>
+      <pubDate>Wed, 24 Jun 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Reis-Bowl mit Basmatireis, Chinakohl, Möhren, rote Paprika, Avocado, Cashewkerne, Cranberry mit Sweet-Chili-Sauce und Sesam</title>
+      <title>Salat im Glas Caprese mit Vollkorn-Spiralnudeln, Tomaten, Mozzarellakugeln, getr.Tomaten, Rote Zwiebeln, Oliven und Tomaten-Rosmarin-Dressing</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Reis-Bowl mit Basmatireis, Chinakohl, Möhren, rote Paprika, Avocado, Cashewkerne, Cranberry mit Sweet-Chili-Sauce und Sesam</guid>
+      <guid isPermaLink="false">Menü 2::Salat im Glas Caprese mit Vollkorn-Spiralnudeln, Tomaten, Mozzarellakugeln, getr.Tomaten, Rote Zwiebeln, Oliven und Tomaten-Rosmarin-Dressing</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Reis-Bowl mit Basmatireis, Chinakohl, Möhren, rote Paprika, Avocado, Cashewkerne, Cranberry mit Sweet-Chili-Sauce und Sesam</category>
+      <category>Gericht: Salat im Glas Caprese mit Vollkorn-Spiralnudeln, Tomaten, Mozzarellakugeln, getr.Tomaten, Rote Zwiebeln, Oliven und Tomaten-Rosmarin-Dressing</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 23 Jun 2026 10:00:14 +0200</pubDate>
+      <pubDate>Wed, 24 Jun 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Blumenkohlsuppe mit Kokosmilch, Kurkuma und frischem Babyblattspinat Fladenbrot</title>
+      <title>Knusperschnitte Hong Kong mit hausgemachtem Kräuter Dip und frischem Bratgemüse</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Blumenkohlsuppe mit Kokosmilch, Kurkuma und frischem Babyblattspinat Fladenbrot</guid>
+      <guid isPermaLink="false">Menü 1::Knusperschnitte Hong Kong mit hausgemachtem Kräuter Dip und frischem Bratgemüse</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Blumenkohlsuppe mit Kokosmilch, Kurkuma und frischem Babyblattspinat Fladenbrot</category>
+      <category>Gericht: Knusperschnitte Hong Kong mit hausgemachtem Kräuter Dip und frischem Bratgemüse</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 23 Jun 2026 10:00:14 +0200</pubDate>
+      <pubDate>Wed, 24 Jun 2026 10:00:15 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
