@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:00:15 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,17 +16,17 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Wed, 24 Jun 2026 10:00:15 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Lasagne Bolognese Rinderhackfleisch und Bechamelsauce mit Gouda überbacken dazu ein kl. Salat</title>
+      <title>Pulled Pork vom Schweinenacken mit BBQ Sauce und hausgemachtem Coleslaw Salat dazu Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Lasagne Bolognese Rinderhackfleisch und Bechamelsauce mit Gouda überbacken dazu ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Pulled Pork vom Schweinenacken mit BBQ Sauce und hausgemachtem Coleslaw Salat dazu Pommes Frites</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Lasagne Bolognese Rinderhackfleisch und Bechamelsauce mit Gouda überbacken dazu ein kl. Salat</category>
+      <category>Gericht: Pulled Pork vom Schweinenacken mit BBQ Sauce und hausgemachtem Coleslaw Salat dazu Pommes Frites</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 24 Jun 2026 10:00:15 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Salat im Glas Caprese mit Vollkorn-Spiralnudeln, Tomaten, Mozzarellakugeln, getr.Tomaten, Rote Zwiebeln, Oliven und Tomaten-Rosmarin-Dressing</title>
@@ -36,17 +36,17 @@
       <category>Menü: Menü 2</category>
       <category>Gericht: Salat im Glas Caprese mit Vollkorn-Spiralnudeln, Tomaten, Mozzarellakugeln, getr.Tomaten, Rote Zwiebeln, Oliven und Tomaten-Rosmarin-Dressing</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 24 Jun 2026 10:00:15 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2026 10:00:15 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Knusperschnitte Hong Kong mit hausgemachtem Kräuter Dip und frischem Bratgemüse</title>
+      <title>Paprikaschote Vegetarisch mit Bulgurfüllung an Tomatensauce dazu Butterreis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Knusperschnitte Hong Kong mit hausgemachtem Kräuter Dip und frischem Bratgemüse</guid>
+      <guid isPermaLink="false">Menü 1::Paprikaschote Vegetarisch mit Bulgurfüllung an Tomatensauce dazu Butterreis</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Knusperschnitte Hong Kong mit hausgemachtem Kräuter Dip und frischem Bratgemüse</category>
+      <category>Gericht: Paprikaschote Vegetarisch mit Bulgurfüllung an Tomatensauce dazu Butterreis</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Wed, 24 Jun 2026 10:00:15 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2026 10:00:15 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
