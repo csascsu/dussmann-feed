@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 26 Jun 2026 08:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:00:16 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,27 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Fri, 26 Jun 2026 10:00:16 +0200</pubDate>
+      <pubDate>Sat, 27 Jun 2026 10:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Schweinefilet mit Pfeffersauce und Broccoli dazu Kartoffelrösti-Bites</title>
+      <title>Schweineschnitzel mit Jägersauce und Erbsen dazu Kroketten</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Schweinefilet mit Pfeffersauce und Broccoli dazu Kartoffelrösti-Bites</guid>
+      <guid isPermaLink="false">Menü 3::Schweineschnitzel mit Jägersauce und Erbsen dazu Kroketten</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Schweinefilet mit Pfeffersauce und Broccoli dazu Kartoffelrösti-Bites</category>
+      <category>Gericht: Schweineschnitzel mit Jägersauce und Erbsen dazu Kroketten</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Fri, 26 Jun 2026 10:00:16 +0200</pubDate>
+      <pubDate>Sat, 27 Jun 2026 10:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Asia Bratnudeln mit frischem Bratgemüse Ei und Sojasauce</title>
+      <title>Asiatische Glasnudel-Bowl Angemachte Glasnudeln mit Edamame, roter Paprika, Möhren, Lauchzwiebeln, Sojasauce und Sesam</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>7,90 €</description>
+      <guid isPermaLink="false">Menü 2::Asiatische Glasnudel-Bowl Angemachte Glasnudeln mit Edamame, roter Paprika, Möhren, Lauchzwiebeln, Sojasauce und Sesam</guid>
+      <category>Menü: Menü 2</category>
+      <category>Gericht: Asiatische Glasnudel-Bowl Angemachte Glasnudeln mit Edamame, roter Paprika, Möhren, Lauchzwiebeln, Sojasauce und Sesam</category>
+      <category>Preis: 7,90 €</category>
+      <pubDate>Sat, 27 Jun 2026 10:00:17 +0200</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Vegetarische Maccheroni al Forno mit Erbsen und Champignons in Tomatensahnesauce und Käse überbacken</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Asia Bratnudeln mit frischem Bratgemüse Ei und Sojasauce</guid>
+      <guid isPermaLink="false">Menü 1::Vegetarische Maccheroni al Forno mit Erbsen und Champignons in Tomatensahnesauce und Käse überbacken</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Asia Bratnudeln mit frischem Bratgemüse Ei und Sojasauce</category>
+      <category>Gericht: Vegetarische Maccheroni al Forno mit Erbsen und Champignons in Tomatensahnesauce und Käse überbacken</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Fri, 26 Jun 2026 10:00:16 +0200</pubDate>
+      <pubDate>Sat, 27 Jun 2026 10:00:17 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
