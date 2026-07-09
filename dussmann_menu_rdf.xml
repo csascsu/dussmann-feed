@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 08 Jul 2026 08:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:00:16 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Wed, 08 Jul 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 09 Jul 2026 10:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Putengeschnetzeltes " Zürcher Art " mit Zwiebeln und Champignons dazu Spätzle und Möhrensalat</title>
+      <title>Italienische Hähnchenbrust mit Zwiebeln, Oliven, italienischen Kräutern, in Tomatensauce aus dem Ofen dazu Reisnudeln und ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Putengeschnetzeltes " Zürcher Art " mit Zwiebeln und Champignons dazu Spätzle und Möhrensalat</guid>
+      <guid isPermaLink="false">Menü 3::Italienische Hähnchenbrust mit Zwiebeln, Oliven, italienischen Kräutern, in Tomatensauce aus dem Ofen dazu Reisnudeln und ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Putengeschnetzeltes " Zürcher Art " mit Zwiebeln und Champignons dazu Spätzle und Möhrensalat</category>
+      <category>Gericht: Italienische Hähnchenbrust mit Zwiebeln, Oliven, italienischen Kräutern, in Tomatensauce aus dem Ofen dazu Reisnudeln und ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 08 Jul 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 09 Jul 2026 10:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Ebly-Gemüse-Bowl mit Römersalat, Ebly, Möhren, Broccoli, Paprika, Zucchini, gek. Ei und Sesam Dressing nach Wahl</title>
+      <title>Chili sin Carne mit Sojahackfleisch und Kidneybohnen dazu Fladenbrot</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Ebly-Gemüse-Bowl mit Römersalat, Ebly, Möhren, Broccoli, Paprika, Zucchini, gek. Ei und Sesam Dressing nach Wahl</guid>
+      <guid isPermaLink="false">Menü 2::Chili sin Carne mit Sojahackfleisch und Kidneybohnen dazu Fladenbrot</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Ebly-Gemüse-Bowl mit Römersalat, Ebly, Möhren, Broccoli, Paprika, Zucchini, gek. Ei und Sesam Dressing nach Wahl</category>
+      <category>Gericht: Chili sin Carne mit Sojahackfleisch und Kidneybohnen dazu Fladenbrot</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 08 Jul 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 09 Jul 2026 10:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Milchreis mit Apfelkompott und Zimt und Zucker</title>
+      <title>Grützwurst mit Apfelkompott und Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Milchreis mit Apfelkompott und Zimt und Zucker</guid>
+      <guid isPermaLink="false">Menü 1::Grützwurst mit Apfelkompott und Kartoffeln</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Milchreis mit Apfelkompott und Zimt und Zucker</category>
+      <category>Gericht: Grützwurst mit Apfelkompott und Kartoffeln</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Wed, 08 Jul 2026 10:00:13 +0200</pubDate>
+      <pubDate>Thu, 09 Jul 2026 10:00:17 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
