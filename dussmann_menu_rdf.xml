@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Jul 2026 09:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:13:17 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Thu, 16 Jul 2026 11:23:26 +0200</pubDate>
+      <pubDate>Fri, 17 Jul 2026 09:13:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Grobe Bratwurst mit Kohlrabigemüse in Rahm und Kartoffelpüree</title>
+      <title>2 Hamburger mit Bürgersauce, Salat, Tomate und rote Zwiebeln dazu Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Grobe Bratwurst mit Kohlrabigemüse in Rahm und Kartoffelpüree</guid>
+      <guid isPermaLink="false">Menü 3::2 Hamburger mit Bürgersauce, Salat, Tomate und rote Zwiebeln dazu Pommes Frites</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Grobe Bratwurst mit Kohlrabigemüse in Rahm und Kartoffelpüree</category>
+      <category>Gericht: 2 Hamburger mit Bürgersauce, Salat, Tomate und rote Zwiebeln dazu Pommes Frites</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Thu, 16 Jul 2026 11:23:26 +0200</pubDate>
+      <pubDate>Fri, 17 Jul 2026 09:13:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Italienische Bowl Caprese mit Vollkornnudeln, Cherrystrauchtomaten, Mozzarellakugeln, rote Zwiebeln und Rucola dazu Tomaten-Rosmarindressing</title>
-      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Italienische Bowl Caprese mit Vollkornnudeln, Cherrystrauchtomaten, Mozzarellakugeln, rote Zwiebeln und Rucola dazu Tomaten-Rosmarindressing</guid>
-      <category>Menü: Menü 2</category>
-      <category>Gericht: Italienische Bowl Caprese mit Vollkornnudeln, Cherrystrauchtomaten, Mozzarellakugeln, rote Zwiebeln und Rucola dazu Tomaten-Rosmarindressing</category>
-      <category>Preis: 7,90 €</category>
-      <pubDate>Thu, 16 Jul 2026 11:23:26 +0200</pubDate>
-    </item>
-    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Knusperschnitte Hong Kong mit hausgemachtem Kräuter Dip Gemüsereis</title>
+      <title>Kartoffelpuffer Apfelkompott Zimt und Zucker</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Knusperschnitte Hong Kong mit hausgemachtem Kräuter Dip Gemüsereis</guid>
+      <guid isPermaLink="false">Menü 1::Kartoffelpuffer Apfelkompott Zimt und Zucker</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Knusperschnitte Hong Kong mit hausgemachtem Kräuter Dip Gemüsereis</category>
+      <category>Gericht: Kartoffelpuffer Apfelkompott Zimt und Zucker</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Thu, 16 Jul 2026 11:23:26 +0200</pubDate>
+      <pubDate>Fri, 17 Jul 2026 09:13:17 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
