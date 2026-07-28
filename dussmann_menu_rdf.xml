@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 27 Jul 2026 07:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:00:19 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,17 +16,17 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Mon, 27 Jul 2026 09:00:15 +0200</pubDate>
+      <pubDate>Tue, 28 Jul 2026 09:00:20 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Paniertes Hähnchenschnitzel mit Paprikarahmsauce dazu Pommes Frites und ein kl. Salat</title>
+      <title>Putengeschnetzeltes " Zürcher Art " mit Champignons und Zwiebeln dazu Reis und ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Paniertes Hähnchenschnitzel mit Paprikarahmsauce dazu Pommes Frites und ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Putengeschnetzeltes " Zürcher Art " mit Champignons und Zwiebeln dazu Reis und ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Paniertes Hähnchenschnitzel mit Paprikarahmsauce dazu Pommes Frites und ein kl. Salat</category>
+      <category>Gericht: Putengeschnetzeltes " Zürcher Art " mit Champignons und Zwiebeln dazu Reis und ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Mon, 27 Jul 2026 09:00:15 +0200</pubDate>
+      <pubDate>Tue, 28 Jul 2026 09:00:20 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Griechische Salatbowl mit Bulgur, Gurken, Tomaten, gem Oliven und Hirtenkäse Dressing nach Wahl</title>
@@ -36,17 +36,17 @@
       <category>Menü: Menü 2</category>
       <category>Gericht: Griechische Salatbowl mit Bulgur, Gurken, Tomaten, gem Oliven und Hirtenkäse Dressing nach Wahl</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Mon, 27 Jul 2026 09:00:15 +0200</pubDate>
+      <pubDate>Tue, 28 Jul 2026 09:00:20 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Veg. Schnitzel Toscana an Ratatouille mit Kartoffelgratin</title>
+      <title>Bunte Reispfanne mit Bratgemüse dazu Asia-Sauce</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Veg. Schnitzel Toscana an Ratatouille mit Kartoffelgratin</guid>
+      <guid isPermaLink="false">Menü 1::Bunte Reispfanne mit Bratgemüse dazu Asia-Sauce</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Veg. Schnitzel Toscana an Ratatouille mit Kartoffelgratin</category>
+      <category>Gericht: Bunte Reispfanne mit Bratgemüse dazu Asia-Sauce</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Mon, 27 Jul 2026 09:00:15 +0200</pubDate>
+      <pubDate>Tue, 28 Jul 2026 09:00:20 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
