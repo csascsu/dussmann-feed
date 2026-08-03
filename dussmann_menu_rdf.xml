@@ -7,16 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 02 Aug 2026 07:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 07:12:30 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>Kein Preis</description>
+      <description>Tagespreis</description>
       <guid isPermaLink="false">Menü 4::Currywurst mit Ketchup Sauce und Pommes Frites</guid>
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
-      <category>Preis: Kein Preis</category>
-      <pubDate>Sun, 02 Aug 2026 09:00:16 +0200</pubDate>
+      <category>Preis: Tagespreis</category>
+      <pubDate>Mon, 03 Aug 2026 09:12:31 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Paniertes Schweineschnitzel mit Pfeffersauce und Grüne Butterbohnen und Pommes Frites</title>
@@ -26,7 +26,7 @@
       <category>Menü: Menü 3</category>
       <category>Gericht: Paniertes Schweineschnitzel mit Pfeffersauce und Grüne Butterbohnen und Pommes Frites</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Sun, 02 Aug 2026 09:00:16 +0200</pubDate>
+      <pubDate>Mon, 03 Aug 2026 09:12:31 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Quinoa-Bowl mit Kichererbsen, Möhren, Ei, Tomaten, Gurken, Rucola und rote Zwiebeln dazu Thunfisch</title>
@@ -36,7 +36,7 @@
       <category>Menü: Menü 2</category>
       <category>Gericht: Quinoa-Bowl mit Kichererbsen, Möhren, Ei, Tomaten, Gurken, Rucola und rote Zwiebeln dazu Thunfisch</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Sun, 02 Aug 2026 09:00:16 +0200</pubDate>
+      <pubDate>Mon, 03 Aug 2026 09:12:31 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Spaghetti aglio e olio mit Parmesan</title>
@@ -46,7 +46,7 @@
       <category>Menü: Menü 1</category>
       <category>Gericht: Spaghetti aglio e olio mit Parmesan</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Sun, 02 Aug 2026 09:00:16 +0200</pubDate>
+      <pubDate>Mon, 03 Aug 2026 09:12:31 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
