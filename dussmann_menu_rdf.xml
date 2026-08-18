@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 17 Aug 2026 07:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:00:12 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Mon, 17 Aug 2026 09:00:21 +0200</pubDate>
+      <pubDate>Tue, 18 Aug 2026 09:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Rinderhackbällchen in Rahmchampignons Sauce dazu Grüne Bohnen und Spätzle</title>
+      <title>Putengyros mit Tzatziki und Krautsalat dazu Tomatenreis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Rinderhackbällchen in Rahmchampignons Sauce dazu Grüne Bohnen und Spätzle</guid>
+      <guid isPermaLink="false">Menü 3::Putengyros mit Tzatziki und Krautsalat dazu Tomatenreis</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Rinderhackbällchen in Rahmchampignons Sauce dazu Grüne Bohnen und Spätzle</category>
+      <category>Gericht: Putengyros mit Tzatziki und Krautsalat dazu Tomatenreis</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Mon, 17 Aug 2026 09:00:21 +0200</pubDate>
+      <pubDate>Tue, 18 Aug 2026 09:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Polenta-Spinattaschen mit hausgemachtem Kräuter Dip und Gemüsereis</title>
+      <title>Schupfnudel-Pfanne mit frischem Bratgemüse dazu Käsesauce</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Polenta-Spinattaschen mit hausgemachtem Kräuter Dip und Gemüsereis</guid>
+      <guid isPermaLink="false">Menü 2::Schupfnudel-Pfanne mit frischem Bratgemüse dazu Käsesauce</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Polenta-Spinattaschen mit hausgemachtem Kräuter Dip und Gemüsereis</category>
+      <category>Gericht: Schupfnudel-Pfanne mit frischem Bratgemüse dazu Käsesauce</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Mon, 17 Aug 2026 09:00:21 +0200</pubDate>
+      <pubDate>Tue, 18 Aug 2026 09:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Tomatencremesuppe mit Knoblauchbrötchen</title>
+      <title>Milchreis mit Apfelkompott und Zimt und Zucker</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Tomatencremesuppe mit Knoblauchbrötchen</guid>
+      <guid isPermaLink="false">Menü 1::Milchreis mit Apfelkompott und Zimt und Zucker</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Tomatencremesuppe mit Knoblauchbrötchen</category>
+      <category>Gericht: Milchreis mit Apfelkompott und Zimt und Zucker</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Mon, 17 Aug 2026 09:00:21 +0200</pubDate>
+      <pubDate>Tue, 18 Aug 2026 09:00:13 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
