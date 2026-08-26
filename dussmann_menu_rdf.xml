@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:00:12 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Tue, 25 Aug 2026 09:00:13 +0200</pubDate>
+      <pubDate>Wed, 26 Aug 2026 09:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Schweinegulasch aus dem Schinken mit Paprika und Champignons dazu Fusilli und ein kl. Salat</title>
+      <title>Hähnchengeschnetzeltes nach " Chop Suey Art " mit frischem Bratgemüse und Butterreis dazu ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Schweinegulasch aus dem Schinken mit Paprika und Champignons dazu Fusilli und ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Hähnchengeschnetzeltes nach " Chop Suey Art " mit frischem Bratgemüse und Butterreis dazu ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Schweinegulasch aus dem Schinken mit Paprika und Champignons dazu Fusilli und ein kl. Salat</category>
+      <category>Gericht: Hähnchengeschnetzeltes nach " Chop Suey Art " mit frischem Bratgemüse und Butterreis dazu ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 25 Aug 2026 09:00:13 +0200</pubDate>
+      <pubDate>Wed, 26 Aug 2026 09:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Ofenschafskäse mit Tomate, Oliven, Knoblauch, Milde Peperoni und Zwiebeln dazu eine Fladenbrotecke</title>
+      <title>Couscous-Gemüse-Törtchen an buntem Gemüsereis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Ofenschafskäse mit Tomate, Oliven, Knoblauch, Milde Peperoni und Zwiebeln dazu eine Fladenbrotecke</guid>
+      <guid isPermaLink="false">Menü 2::Couscous-Gemüse-Törtchen an buntem Gemüsereis</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Ofenschafskäse mit Tomate, Oliven, Knoblauch, Milde Peperoni und Zwiebeln dazu eine Fladenbrotecke</category>
+      <category>Gericht: Couscous-Gemüse-Törtchen an buntem Gemüsereis</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 25 Aug 2026 09:00:13 +0200</pubDate>
+      <pubDate>Wed, 26 Aug 2026 09:00:13 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Veg. Königsberger Klopse in Kapernsauce mit Kartoffeln</title>
+      <title>Spaghetti mit Sauce Napoli und Parmesan</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Veg. Königsberger Klopse in Kapernsauce mit Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 1::Spaghetti mit Sauce Napoli und Parmesan</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Veg. Königsberger Klopse in Kapernsauce mit Kartoffeln</category>
+      <category>Gericht: Spaghetti mit Sauce Napoli und Parmesan</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 25 Aug 2026 09:00:13 +0200</pubDate>
+      <pubDate>Wed, 26 Aug 2026 09:00:13 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
