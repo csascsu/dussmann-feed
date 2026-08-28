@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 27 Aug 2026 07:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 07:00:31 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,27 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Thu, 27 Aug 2026 09:00:14 +0200</pubDate>
+      <pubDate>Fri, 28 Aug 2026 09:00:31 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>3 Bratheringe an Remouladen Sauce dazu Bratkartoffeln und ein kl. Salat</title>
+      <title>Gebr. Rinderleber " Berliner Art " mit Kartoffelpüree und ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::3 Bratheringe an Remouladen Sauce dazu Bratkartoffeln und ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Gebr. Rinderleber " Berliner Art " mit Kartoffelpüree und ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: 3 Bratheringe an Remouladen Sauce dazu Bratkartoffeln und ein kl. Salat</category>
+      <category>Gericht: Gebr. Rinderleber " Berliner Art " mit Kartoffelpüree und ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Thu, 27 Aug 2026 09:00:14 +0200</pubDate>
+      <pubDate>Fri, 28 Aug 2026 09:00:31 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Bunter Nudelauflauf mit Schinkenstreifen und Poree mit Tomate und Gouda überbacken</title>
-      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
-      <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Bunter Nudelauflauf mit Schinkenstreifen und Poree mit Tomate und Gouda überbacken</guid>
-      <category>Menü: Menü 2</category>
-      <category>Gericht: Bunter Nudelauflauf mit Schinkenstreifen und Poree mit Tomate und Gouda überbacken</category>
-      <category>Preis: 7,90 €</category>
-      <pubDate>Thu, 27 Aug 2026 09:00:14 +0200</pubDate>
-    </item>
-    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Ofenkartoffel mit Sour Cream und großer Salatbeilage</title>
+      <title>Hausgemachte Kartoffelpuffer mit Apfelmus und Zimt und Zucker</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Ofenkartoffel mit Sour Cream und großer Salatbeilage</guid>
+      <guid isPermaLink="false">Menü 1::Hausgemachte Kartoffelpuffer mit Apfelmus und Zimt und Zucker</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Ofenkartoffel mit Sour Cream und großer Salatbeilage</category>
+      <category>Gericht: Hausgemachte Kartoffelpuffer mit Apfelmus und Zimt und Zucker</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Thu, 27 Aug 2026 09:00:14 +0200</pubDate>
+      <pubDate>Fri, 28 Aug 2026 09:00:31 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
