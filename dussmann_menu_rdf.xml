@@ -7,6 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 29 Aug 2026 07:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:05:35 +0000</lastBuildDate>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>Tagespreis</description>
+      <guid isPermaLink="false">Menü 4::Currywurst mit Ketchup Sauce und Pommes Frites</guid>
+      <category>Menü: Menü 4</category>
+      <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
+      <category>Preis: Tagespreis</category>
+      <pubDate>Tue, 01 Sep 2026 12:05:35 +0200</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Hacksteak Croatia an Paprikarahmsauce dazu Pommes Frites und kl. Salat</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>9,50 €</description>
+      <guid isPermaLink="false">Menü 3::Hacksteak Croatia an Paprikarahmsauce dazu Pommes Frites und kl. Salat</guid>
+      <category>Menü: Menü 3</category>
+      <category>Gericht: Hacksteak Croatia an Paprikarahmsauce dazu Pommes Frites und kl. Salat</category>
+      <category>Preis: 9,50 €</category>
+      <pubDate>Tue, 01 Sep 2026 12:05:35 +0200</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Asiatische Glasnudel-Bowl angemachte Glasnudeln mit Sesamöl, Reisessig und Sojasauce, Edamame, rote Paprika, Möhren und Lauchzwiebeln</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>7,90 €</description>
+      <guid isPermaLink="false">Menü 2::Asiatische Glasnudel-Bowl angemachte Glasnudeln mit Sesamöl, Reisessig und Sojasauce, Edamame, rote Paprika, Möhren und Lauchzwiebeln</guid>
+      <category>Menü: Menü 2</category>
+      <category>Gericht: Asiatische Glasnudel-Bowl angemachte Glasnudeln mit Sesamöl, Reisessig und Sojasauce, Edamame, rote Paprika, Möhren und Lauchzwiebeln</category>
+      <category>Preis: 7,90 €</category>
+      <pubDate>Tue, 01 Sep 2026 12:05:35 +0200</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Putengyrossuppe mit Paprika und Mais</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>5,00 €</description>
+      <guid isPermaLink="false">Menü 1::Putengyrossuppe mit Paprika und Mais</guid>
+      <category>Menü: Menü 1</category>
+      <category>Gericht: Putengyrossuppe mit Paprika und Mais</category>
+      <category>Preis: 5,00 €</category>
+      <pubDate>Tue, 01 Sep 2026 12:05:35 +0200</pubDate>
+    </item>
   </channel>
 </rdf:RDF>
