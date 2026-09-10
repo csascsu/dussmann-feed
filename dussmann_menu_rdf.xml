@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:00:16 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Wed, 09 Sep 2026 09:00:18 +0200</pubDate>
+      <pubDate>Thu, 10 Sep 2026 09:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>2 Fischfrikadellen mit Knoblauch Dip und buntem Kartoffelsalat dazu ein kl. Salat</title>
+      <title>Panierte Bauchscheibe mit Pfeffersauce und Buttererbsen dazu Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::2 Fischfrikadellen mit Knoblauch Dip und buntem Kartoffelsalat dazu ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Panierte Bauchscheibe mit Pfeffersauce und Buttererbsen dazu Kartoffeln</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: 2 Fischfrikadellen mit Knoblauch Dip und buntem Kartoffelsalat dazu ein kl. Salat</category>
+      <category>Gericht: Panierte Bauchscheibe mit Pfeffersauce und Buttererbsen dazu Kartoffeln</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 09 Sep 2026 09:00:18 +0200</pubDate>
+      <pubDate>Thu, 10 Sep 2026 09:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Chili con Carne mit Kidney-Bohnen und Mais und Schmand</title>
+      <title>Mulligataway Suppe mit Hähnchenfleisch und Paprika, grüne Bohnen und Curry</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Chili con Carne mit Kidney-Bohnen und Mais und Schmand</guid>
+      <guid isPermaLink="false">Menü 2::Mulligataway Suppe mit Hähnchenfleisch und Paprika, grüne Bohnen und Curry</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Chili con Carne mit Kidney-Bohnen und Mais und Schmand</category>
+      <category>Gericht: Mulligataway Suppe mit Hähnchenfleisch und Paprika, grüne Bohnen und Curry</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 09 Sep 2026 09:00:18 +0200</pubDate>
+      <pubDate>Thu, 10 Sep 2026 09:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Crespelle mit Spinat-Frischkäsefüllung in Tomatensauce aus dem Ofen</title>
+      <title>Vegetarische Maccheroni al Forno mit Erben und Champignons in Tomatensauce und Käse überbacken</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Crespelle mit Spinat-Frischkäsefüllung in Tomatensauce aus dem Ofen</guid>
+      <guid isPermaLink="false">Menü 1::Vegetarische Maccheroni al Forno mit Erben und Champignons in Tomatensauce und Käse überbacken</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Crespelle mit Spinat-Frischkäsefüllung in Tomatensauce aus dem Ofen</category>
+      <category>Gericht: Vegetarische Maccheroni al Forno mit Erben und Champignons in Tomatensauce und Käse überbacken</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Wed, 09 Sep 2026 09:00:18 +0200</pubDate>
+      <pubDate>Thu, 10 Sep 2026 09:00:16 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
