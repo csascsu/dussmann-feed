@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:00:17 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst-Pfanne mit Ketchup Sauce und Kartoffel-Wedges</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst-Pfanne mit Ketchup Sauce und Kartoffel-Wedges</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Mon, 14 Sep 2026 09:00:20 +0200</pubDate>
+      <pubDate>Tue, 15 Sep 2026 09:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Paniertes Hähnchenschnitzel mit Kartoffelgratin und ein kl. Salat</title>
+      <title>Paniertes Tilapiafilet mit Senfsauce und Kartoffeln dazu Möhrensalat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Paniertes Hähnchenschnitzel mit Kartoffelgratin und ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Paniertes Tilapiafilet mit Senfsauce und Kartoffeln dazu Möhrensalat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Paniertes Hähnchenschnitzel mit Kartoffelgratin und ein kl. Salat</category>
+      <category>Gericht: Paniertes Tilapiafilet mit Senfsauce und Kartoffeln dazu Möhrensalat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Mon, 14 Sep 2026 09:00:20 +0200</pubDate>
+      <pubDate>Tue, 15 Sep 2026 09:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Kartoffel-Gemüse-Auflauf mit frischem Gemüse und Käse überbacken</title>
+      <title>Rahmspinat mit Kartoffeln und 2 gekochten Eiern</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Kartoffel-Gemüse-Auflauf mit frischem Gemüse und Käse überbacken</guid>
+      <guid isPermaLink="false">Menü 2::Rahmspinat mit Kartoffeln und 2 gekochten Eiern</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Kartoffel-Gemüse-Auflauf mit frischem Gemüse und Käse überbacken</category>
+      <category>Gericht: Rahmspinat mit Kartoffeln und 2 gekochten Eiern</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Mon, 14 Sep 2026 09:00:20 +0200</pubDate>
+      <pubDate>Tue, 15 Sep 2026 09:00:17 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Scharfe Tomaten-Paprika-Suppe mit Baguette</title>
+      <title>Erbsensuppe mit Suppengrün und Geflügelwiener</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Scharfe Tomaten-Paprika-Suppe mit Baguette</guid>
+      <guid isPermaLink="false">Menü 1::Erbsensuppe mit Suppengrün und Geflügelwiener</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Scharfe Tomaten-Paprika-Suppe mit Baguette</category>
+      <category>Gericht: Erbsensuppe mit Suppengrün und Geflügelwiener</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Mon, 14 Sep 2026 09:00:20 +0200</pubDate>
+      <pubDate>Tue, 15 Sep 2026 09:00:17 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
