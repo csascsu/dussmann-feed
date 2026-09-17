@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:00:15 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst-Pfanne mit Ketchup Sauce und Kartoffel-Wedges</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst-Pfanne mit Ketchup Sauce und Kartoffel-Wedges</category>
       <category>Preis: Kein Preis</category>
-      <pubDate>Wed, 16 Sep 2026 09:00:16 +0200</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Hacksteak Croatia mit Paprikarahmsauce dazu Mexiko-Reis und ein kl. Salat</title>
+      <title>Putengeschnetzeltes " Zürcher Art " mit Champignons und Zwiebeln dazu Spätzle und ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Hacksteak Croatia mit Paprikarahmsauce dazu Mexiko-Reis und ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Putengeschnetzeltes " Zürcher Art " mit Champignons und Zwiebeln dazu Spätzle und ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Hacksteak Croatia mit Paprikarahmsauce dazu Mexiko-Reis und ein kl. Salat</category>
+      <category>Gericht: Putengeschnetzeltes " Zürcher Art " mit Champignons und Zwiebeln dazu Spätzle und ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 16 Sep 2026 09:00:16 +0200</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Schupfnudel-Gemüsepfanne mit frischem Bratgemüse und Kräutern</title>
+      <title>Vegetarische Moussaka mit Sojahackfleisch, Aubergine, Zucchini und Tomaten</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Schupfnudel-Gemüsepfanne mit frischem Bratgemüse und Kräutern</guid>
+      <guid isPermaLink="false">Menü 2::Vegetarische Moussaka mit Sojahackfleisch, Aubergine, Zucchini und Tomaten</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Schupfnudel-Gemüsepfanne mit frischem Bratgemüse und Kräutern</category>
+      <category>Gericht: Vegetarische Moussaka mit Sojahackfleisch, Aubergine, Zucchini und Tomaten</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 16 Sep 2026 09:00:16 +0200</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Weiße Bohnensuppe mit Suppengrün und Geflügelwiener</title>
+      <title>Weißkohleintopf mit Suppengrün und Schweinefleisch</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Weiße Bohnensuppe mit Suppengrün und Geflügelwiener</guid>
+      <guid isPermaLink="false">Menü 1::Weißkohleintopf mit Suppengrün und Schweinefleisch</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Weiße Bohnensuppe mit Suppengrün und Geflügelwiener</category>
+      <category>Gericht: Weißkohleintopf mit Suppengrün und Schweinefleisch</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Wed, 16 Sep 2026 09:00:16 +0200</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:00:16 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
