@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 29 Sep 2026 07:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:17:41 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Tagespreis</category>
-      <pubDate>Tue, 29 Sep 2026 09:55:13 +0200</pubDate>
+      <pubDate>Wed, 30 Sep 2026 10:17:41 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Hühnerfrikassee " Gärtnerin Art" mit Erbsen, Möhren und Spargel dazu Reis und ein kl. Salat</title>
+      <title>Fischragout vom Seelachs mit Porree und Paprika in Hummercremesauce dazu Butterreis und Gurkensalat in Rahm</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Hühnerfrikassee " Gärtnerin Art" mit Erbsen, Möhren und Spargel dazu Reis und ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 3::Fischragout vom Seelachs mit Porree und Paprika in Hummercremesauce dazu Butterreis und Gurkensalat in Rahm</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Hühnerfrikassee " Gärtnerin Art" mit Erbsen, Möhren und Spargel dazu Reis und ein kl. Salat</category>
+      <category>Gericht: Fischragout vom Seelachs mit Porree und Paprika in Hummercremesauce dazu Butterreis und Gurkensalat in Rahm</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Tue, 29 Sep 2026 09:55:13 +0200</pubDate>
+      <pubDate>Wed, 30 Sep 2026 10:17:41 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Berner Rösti mit Speck, Zwiebeln und Käse überbacken dazu ein kl. Salat</title>
+      <title>Hackfleisch Lauchcremesuppe mit Rinderhackfleisch dazu Baguette</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Berner Rösti mit Speck, Zwiebeln und Käse überbacken dazu ein kl. Salat</guid>
+      <guid isPermaLink="false">Menü 2::Hackfleisch Lauchcremesuppe mit Rinderhackfleisch dazu Baguette</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Berner Rösti mit Speck, Zwiebeln und Käse überbacken dazu ein kl. Salat</category>
+      <category>Gericht: Hackfleisch Lauchcremesuppe mit Rinderhackfleisch dazu Baguette</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Tue, 29 Sep 2026 09:55:13 +0200</pubDate>
+      <pubDate>Wed, 30 Sep 2026 10:17:41 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Asia Bratnudeln mit frischem Bratgemüse Ei und Sojasauce</title>
+      <title>Penne mit Arrabiata Sauce</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Asia Bratnudeln mit frischem Bratgemüse Ei und Sojasauce</guid>
+      <guid isPermaLink="false">Menü 1::Penne mit Arrabiata Sauce</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Asia Bratnudeln mit frischem Bratgemüse Ei und Sojasauce</category>
+      <category>Gericht: Penne mit Arrabiata Sauce</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Tue, 29 Sep 2026 09:55:13 +0200</pubDate>
+      <pubDate>Wed, 30 Sep 2026 10:17:41 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
