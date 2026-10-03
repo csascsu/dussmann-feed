@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 02 Oct 2026 07:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 07:00:15 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,27 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Tagespreis</category>
-      <pubDate>Fri, 02 Oct 2026 09:00:15 +0200</pubDate>
+      <pubDate>Sat, 03 Oct 2026 09:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Lahmacun mit Hähnchendönerfleisch, Salat, Gurken, Tomaten, rote Zwiebeln und Knoblauch-Dip</title>
+      <title>Geflügelleberkäse mit 2 Spiegeleier und Schmorzwiebeln dazu Kartoffelpüree</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Lahmacun mit Hähnchendönerfleisch, Salat, Gurken, Tomaten, rote Zwiebeln und Knoblauch-Dip</guid>
+      <guid isPermaLink="false">Menü 3::Geflügelleberkäse mit 2 Spiegeleier und Schmorzwiebeln dazu Kartoffelpüree</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Lahmacun mit Hähnchendönerfleisch, Salat, Gurken, Tomaten, rote Zwiebeln und Knoblauch-Dip</category>
+      <category>Gericht: Geflügelleberkäse mit 2 Spiegeleier und Schmorzwiebeln dazu Kartoffelpüree</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Fri, 02 Oct 2026 09:00:15 +0200</pubDate>
+      <pubDate>Sat, 03 Oct 2026 09:00:16 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Gemüseteller mit Broccoli, Blumenkohl, Möhren und Sauce Hollandaise dazu Kartoffel-Drillinge</title>
+      <title>Veg. Königsberger Klopse mit Rote Bete Salat und Kartoffelpüree</title>
+      <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
+      <description>7,90 €</description>
+      <guid isPermaLink="false">Menü 2::Veg. Königsberger Klopse mit Rote Bete Salat und Kartoffelpüree</guid>
+      <category>Menü: Menü 2</category>
+      <category>Gericht: Veg. Königsberger Klopse mit Rote Bete Salat und Kartoffelpüree</category>
+      <category>Preis: 7,90 €</category>
+      <pubDate>Sat, 03 Oct 2026 09:00:16 +0200</pubDate>
+    </item>
+    <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
+      <title>Penne mit Tomatensauce- Basilikumsauce und Parmesan</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Gemüseteller mit Broccoli, Blumenkohl, Möhren und Sauce Hollandaise dazu Kartoffel-Drillinge</guid>
+      <guid isPermaLink="false">Menü 1::Penne mit Tomatensauce- Basilikumsauce und Parmesan</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Gemüseteller mit Broccoli, Blumenkohl, Möhren und Sauce Hollandaise dazu Kartoffel-Drillinge</category>
+      <category>Gericht: Penne mit Tomatensauce- Basilikumsauce und Parmesan</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Fri, 02 Oct 2026 09:00:15 +0200</pubDate>
+      <pubDate>Sat, 03 Oct 2026 09:00:16 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
