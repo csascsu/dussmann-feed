@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 07 Oct 2026 07:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:00:12 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: Tagespreis</category>
-      <pubDate>Wed, 07 Oct 2026 09:00:16 +0200</pubDate>
+      <pubDate>Thu, 08 Oct 2026 09:00:12 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Spießbraten mit Backpflaumen-Füllung und Bratensauce dazu Rosenkohl und Kartoffeln</title>
+      <title>Paniertes Schollenfilet mit Remouladen Sauce und Bratkartoffeln dazu ein kl. Salat</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Spießbraten mit Backpflaumen-Füllung und Bratensauce dazu Rosenkohl und Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 3::Paniertes Schollenfilet mit Remouladen Sauce und Bratkartoffeln dazu ein kl. Salat</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Spießbraten mit Backpflaumen-Füllung und Bratensauce dazu Rosenkohl und Kartoffeln</category>
+      <category>Gericht: Paniertes Schollenfilet mit Remouladen Sauce und Bratkartoffeln dazu ein kl. Salat</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 07 Oct 2026 09:00:16 +0200</pubDate>
+      <pubDate>Thu, 08 Oct 2026 09:00:12 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Polenta-Medallion an Kartoffel Erbsenpüree und Zucchini-Paprikagemüse</title>
+      <title>Veg. Schnitzel Toscana mit Tomatenragout und Butterreis</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Polenta-Medallion an Kartoffel Erbsenpüree und Zucchini-Paprikagemüse</guid>
+      <guid isPermaLink="false">Menü 2::Veg. Schnitzel Toscana mit Tomatenragout und Butterreis</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Polenta-Medallion an Kartoffel Erbsenpüree und Zucchini-Paprikagemüse</category>
+      <category>Gericht: Veg. Schnitzel Toscana mit Tomatenragout und Butterreis</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 07 Oct 2026 09:00:16 +0200</pubDate>
+      <pubDate>Thu, 08 Oct 2026 09:00:12 +0200</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Italienische Gemüselasagne mit Ratatouille-Gemüse und Gouda überbacken</title>
+      <title>Steckrübeneintopf mit Fleischeinlage</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Italienische Gemüselasagne mit Ratatouille-Gemüse und Gouda überbacken</guid>
+      <guid isPermaLink="false">Menü 1::Steckrübeneintopf mit Fleischeinlage</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Italienische Gemüselasagne mit Ratatouille-Gemüse und Gouda überbacken</category>
+      <category>Gericht: Steckrübeneintopf mit Fleischeinlage</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Wed, 07 Oct 2026 09:00:16 +0200</pubDate>
+      <pubDate>Thu, 08 Oct 2026 09:00:12 +0200</pubDate>
     </item>
   </channel>
 </rdf:RDF>
