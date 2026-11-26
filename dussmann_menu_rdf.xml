@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:00:19 +0000</lastBuildDate>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
       <title>Currywurst mit Ketchup Sauce und Pommes Frites</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
@@ -16,37 +16,37 @@
       <category>Menü: Menü 4</category>
       <category>Gericht: Currywurst mit Ketchup Sauce und Pommes Frites</category>
       <category>Preis: 8,50 €</category>
-      <pubDate>Wed, 25 Nov 2026 09:00:16 +0100</pubDate>
+      <pubDate>Thu, 26 Nov 2026 09:00:19 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Fischragout vom Seelachs mit Paprika und Porree in Hummersauce dazu Butterreis und Gurkensalat in Rahm</title>
+      <title>Grünkohl mit Kasseler und Kohlwurst dazu Kartoffeln und Senf</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>9,50 €</description>
-      <guid isPermaLink="false">Menü 3::Fischragout vom Seelachs mit Paprika und Porree in Hummersauce dazu Butterreis und Gurkensalat in Rahm</guid>
+      <guid isPermaLink="false">Menü 3::Grünkohl mit Kasseler und Kohlwurst dazu Kartoffeln und Senf</guid>
       <category>Menü: Menü 3</category>
-      <category>Gericht: Fischragout vom Seelachs mit Paprika und Porree in Hummersauce dazu Butterreis und Gurkensalat in Rahm</category>
+      <category>Gericht: Grünkohl mit Kasseler und Kohlwurst dazu Kartoffeln und Senf</category>
       <category>Preis: 9,50 €</category>
-      <pubDate>Wed, 25 Nov 2026 09:00:16 +0100</pubDate>
+      <pubDate>Thu, 26 Nov 2026 09:00:19 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Veg. Königsberger Klopse Kapernsauce dazu in Rote Bete Salat und Kartoffeln</title>
+      <title>Gemüseteller mit Broccoli, Blumenkohl, Möhren dazu Sauce Hollandaise und Kartoffeln</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>7,90 €</description>
-      <guid isPermaLink="false">Menü 2::Veg. Königsberger Klopse Kapernsauce dazu in Rote Bete Salat und Kartoffeln</guid>
+      <guid isPermaLink="false">Menü 2::Gemüseteller mit Broccoli, Blumenkohl, Möhren dazu Sauce Hollandaise und Kartoffeln</guid>
       <category>Menü: Menü 2</category>
-      <category>Gericht: Veg. Königsberger Klopse Kapernsauce dazu in Rote Bete Salat und Kartoffeln</category>
+      <category>Gericht: Gemüseteller mit Broccoli, Blumenkohl, Möhren dazu Sauce Hollandaise und Kartoffeln</category>
       <category>Preis: 7,90 €</category>
-      <pubDate>Wed, 25 Nov 2026 09:00:16 +0100</pubDate>
+      <pubDate>Thu, 26 Nov 2026 09:00:19 +0100</pubDate>
     </item>
     <item rdf:about="https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade">
-      <title>Gelbe Linsensuppe mit Hirtenkäse dazu Baguette</title>
+      <title>Cappelletti mit Tomate-Ricottafüllung in Tomatensauce- Basilikumsauce</title>
       <link>https://delightful.dussmann.com/menu/TZH-Stade/TZH-Stade</link>
       <description>5,00 €</description>
-      <guid isPermaLink="false">Menü 1::Gelbe Linsensuppe mit Hirtenkäse dazu Baguette</guid>
+      <guid isPermaLink="false">Menü 1::Cappelletti mit Tomate-Ricottafüllung in Tomatensauce- Basilikumsauce</guid>
       <category>Menü: Menü 1</category>
-      <category>Gericht: Gelbe Linsensuppe mit Hirtenkäse dazu Baguette</category>
+      <category>Gericht: Cappelletti mit Tomate-Ricottafüllung in Tomatensauce- Basilikumsauce</category>
       <category>Preis: 5,00 €</category>
-      <pubDate>Wed, 25 Nov 2026 09:00:16 +0100</pubDate>
+      <pubDate>Thu, 26 Nov 2026 09:00:19 +0100</pubDate>
     </item>
   </channel>
 </rdf:RDF>
